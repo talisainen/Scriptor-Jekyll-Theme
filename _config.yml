@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "Creativity Matters"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Research group at Tallinn University of Technology"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -30,24 +30,28 @@ google_analytics: ""
 navigation:
   - text: Home
     url: /
-  - text: About
+  - text: Team
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
+  # - text: Style Guide
+    # url: /style-guide/
   - text: Tags
     url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+  - text: Projects
+    url: /projects/
+  - text: Publications
+    url: /publications/
+  # - text: Download
+    # url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+# disqus: justgoodthemes
 
 # Colors
 accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: ""
   has_social: true
 
 # Plugins
