@@ -1,7 +1,7 @@
 {
-  "name": "John Doe",
-  "bio": "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.",
-  "url": "https://justgoodthemes.com",
-  "location": "Vilnius, Lithuania",
-  "image": "images/author.png"
+  "name": "Creativity Matters",
+  "bio": "\"Creativity Matters\" is a reseach group in Tallinn University of Technology IT College. The areas of interest inculde hybrid learning, telepresence robots and teaching didactics",
+  "url": "https://cm.taltech.ee",
+  // "location": "",
+  // "image": "images/author.png"
 }
