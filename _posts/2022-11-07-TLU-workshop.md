@@ -4,7 +4,7 @@ title: "Workshop on telepresence robotics at Tallinn University"
 description: ""
 date: 2022-11-01
 feature_image: images/2022-11-01-tlu/TLU-seminar.jpg
-tags: [workshop, tallinn, TLU]
+tags: [workshop, Tallinn, TLU]
 ---
 
 Aleksei, Janika and Kristel from our research group gave a workshop on telepresence robotics to 50 general education teachers in Tallinn University at November 1. Together we explored the functionality and limitations of the Double 3, Ohmni and Temi robots. Teachers were moderately optimistic of imaging their future in telepresence mode.
