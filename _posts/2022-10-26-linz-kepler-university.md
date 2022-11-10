@@ -2,7 +2,7 @@
 layout: post
 title: "Erasmus+ STEM upgrade seminar"
 description: ""
-date: 2019-01-03
+date: 2022-10-04
 feature_image: images/2022-10-26-linz/IMG_0448.jpg
 tags: [partnership, Linz, Austria, JKU, Johannes Kepler University]
 ---
