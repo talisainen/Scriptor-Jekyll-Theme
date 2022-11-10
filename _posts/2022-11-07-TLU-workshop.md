@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Workshop on tehepresence robotics at Tallinn University"
-description: "A work at home parent is an entrepreneur who works from home and integrates parenting into his or her business activities."
-date: 2022-11-04
+title: "Workshop on telepresence robotics at Tallinn University"
+description: ""
+date: 2022-11-01
 feature_image: images/2022-11-01-tlu/TLU-seminar.jpg
 tags: [workshop, tallinn, TLU]
 ---
@@ -13,7 +13,7 @@ Temi, a newcomer to our fleet of Double 3 and Ohmni robots made its first (incre
 
 <!--more-->
 
-Temi is quite different from the robots we currently have at our disposal. While moving around the building it creates a map, a floot plan that it can use to move independently between named reference points.
+Temi is quite different from the robots we currently have at our disposal. While moving around the building it creates a map, a floot plan that it can use to move independently between marked reference points.
 
 ![Temi robot](/images/2022-11-01-tlu/temi.jpg)
 
