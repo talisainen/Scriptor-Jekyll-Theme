@@ -10,6 +10,6 @@ feature_image: images/teams-photos/team.jpg
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
 
-Looking forward to new partnerships!
+<!-- Looking forward to new partnerships! -->
 
-*Thank You for reading!*
+<!-- *Thank You for reading!* -->
