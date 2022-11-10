@@ -20,4 +20,4 @@ the campus of [Johannes Kepler University](https://www.jku.at/en) is worth a sep
 
 {% include image_caption.html imageurl="/images/2022-10-26-linz/IMG_0448.jpg" title="" caption="caption="Johannes Kepler University campus" %}
 
-Travel tip: although there is an airport in Linz be sure to take the train, otherwise you might end up the only person who took a flight to the city. In addition to that dubious achievement train schedule is much more flexible.
+Travel tip: although there is an airport in Linz be sure to take the train, otherwise you might end up being the only person who took a flight to the city. In addition to that dubious achievement train schedule is much more flexible.
