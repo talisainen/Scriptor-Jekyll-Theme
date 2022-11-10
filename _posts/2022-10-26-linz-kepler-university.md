@@ -14,7 +14,7 @@ Professor [Zsolt Lavicza](https://www.researchgate.net/profile/Zsolt-Lavicza) ou
 
 <!--more-->
 
-{% include image_caption.html imageurl="images\2022-10-26-linz\telecooperation.jpg" title="" caption="caption="Johannes Kepler University campus" %}
+{% include image_caption.html imageurl="/images/2022-10-26-linz/telecooperation.jpg" title="" caption="caption="Johannes Kepler University campus" %}
 
 the campus of [Johannes Kepler University](https://www.jku.at/en) is worth a separate mention, as an example of a stylish and at the same time cozy place to work and rest, located in the most picturesque landscape one could image. We can only envy our colleagues, but in a polite way, of course.
 Travel tip: although there is an airport in Linz be sure to take the train, otherwise you might end up the only person who took a flight to the city. In addition to that dubious achievement train schedule is much more flexible.
