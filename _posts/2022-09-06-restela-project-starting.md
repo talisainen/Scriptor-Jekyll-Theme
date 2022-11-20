@@ -14,5 +14,3 @@ The participating organizations create a perfect mix in terms of profile (resear
 
 Things we love about the project: the outputs of our combined efforts will be freely available for all parties interested, including full description of the platform and materials as well as detailed description of the labs we create.
 
-<!--more-->
-
