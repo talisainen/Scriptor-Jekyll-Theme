@@ -36,9 +36,9 @@ navigation:
     # url: /style-guide/
   - text: Tags
     url: /tags/
-  - text: Projects/
+  - text: Projects
     url: /projects/
-  - text: Publications/
+  - text: Publications
     url: /publications/
   # - text: Download
     # url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
