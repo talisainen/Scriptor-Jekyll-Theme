@@ -4,7 +4,7 @@ title: "ReSTELA project launch"
 description: ""
 date: 2022-09-06
 feature_image:
-images\2202-09-06-restela-project-starting\ReStela-logo.jpg
+images/2202-09-06-restela-project-starting/ReStela-logo.jpg
 tags: [ReSTELA, Erasmus, ECECT, Scuola di Robotica]
 ---
 
