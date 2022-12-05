@@ -4,7 +4,7 @@ title: "Erasmus+ STEM upgrade seminar"
 description: ""
 date: 2022-10-04
 feature_image: images/2022-10-26-linz/IMG_0448.jpg
-tags: [partnership, workshop, Erasmus, Linz, Austria, JKU, Johannes Kepler University]
+tags: [partnership, workshop, Erasmus]
 ---
 
 In addition to the participation in the seminar we visited Dr. [Ismail Khalil](https://www.researchgate.net/profile/Ismail-Khalil-6) and Dr. [Karin Anna Hummel](https://www.researchgate.net/profile/Karin-Hummel-3) from the Institute of Cooperation of Johannes Kepler University research interests lay within human-machine and machine-machine interaction, and also IoT sensors.

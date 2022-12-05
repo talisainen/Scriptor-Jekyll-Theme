@@ -4,7 +4,7 @@ title: "ReSTELA project launch"
 description: ""
 date: 2022-09-06
 feature_image: images/2202-09-06-restela-project-starting/ReStela-logo.jpg
-tags: [ReSTELA, Erasmus, ECECT, Scuola di Robotica]
+tags: [partnership, Erasmus, ReSTELA]
 ---
 
 ReSTELA is an acronym for *Remote STEM Labs* and a joint project between TalTech IT College (that's us), [European Centre for Emerging Competencies and Technologies](https://ecect.eu/) and [Scuola di Robotica](https://www.scuoladirobotica.it/en/home-eng/).
