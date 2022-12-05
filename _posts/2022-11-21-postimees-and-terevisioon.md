@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "starring on Estonian TV"
+title: "Starring on Estonian TV"
 description: ""
 date: 2022-11-21
 feature_image: images/2022-11-21-postimees-and-terevisioon/postimees-blurred.jpg

@@ -14,7 +14,7 @@ The topic of the presentation delivered by Aleksei Talisainen was " Higher Educa
 <!--more-->
 
 
-{% include image_caption.html imageurl="/images/2022-11-23-zaragoza-robot22-conference/2022-11-presentation-aleksei-zaragoza" title="" caption="Zaragoza presenatation" %}
+{% include image_caption.html imageurl="images/2022-11-23-zaragoza-robot22-conference/2022-11-presentation-aleksei-zaragoza.jpg" title="" caption="Zaragoza presenatation" %}
 
 The research focused on three aspects of telepresence robots' usage: how do higher education teachers percieve the priorities of robots' features and what requirements should be imposed on the environment, where the robots are used, and what teaching methods are best suitable.
 
