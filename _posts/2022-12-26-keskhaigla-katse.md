@@ -1,23 +1,13 @@
 ---
 layout: post
-title: "Experiment in Tallinn Central Hospital"
+title: "Experiment in East Tallinn Central Hospital"
 description: ""
 date: 2022-12-26
 feature_image: images/2022-12-26-itk-eksperiment/2022-12-ikt-nurse.jpg
-tags: [partnership, workshop, Erasmus]
+tags: [partnership, experiment]
 ---
 
-In addition to the participation in the seminar we visited Dr. [Ismail Khalil](https://www.researchgate.net/profile/Ismail-Khalil-6) and Dr. [Karin Anna Hummel](https://www.researchgate.net/profile/Karin-Hummel-3) from the Institute of Cooperation of Johannes Kepler University research interests lay within human-machine and machine-machine interaction, and also IoT sensors.
-We share the belief that telepresence robots could strongly benefit from the results of Ismail and Karin research.
+East Tallinn Central Hospital ([Ida-Tallinna Keskhaigla](https://www.itk.ee/en)) is the third biggest hospital in Estonia with 538 beds and over 2200 people working there.
 
-Professor [Zsolt Lavicza](https://www.researchgate.net/profile/Zsolt-Lavicza) our research group met the next day shared his considerations on STEM education research methods that our [EuroteQ course](documents\Enhancing-Social-Interaction-in-Education-and-Business-by-using-Telepresence-Robots-ICY0032.pdf) on social interactions using telepresence robots will greatly benefit from. We are looking forward to future cooperation.
-
-<!--more-->
-
-{% include image_caption.html imageurl="/images/2022-10-26-linz/telecooperation.jpg" title="" caption="Johannes Kepler University campus" %}
-
-the campus of [Johannes Kepler University](https://www.jku.at/en) is worth a separate mention, as an example of a stylish and at the same time cozy place to work and rest, located in the most picturesque landscape one could image. We can only envy our colleagues, but in a polite way, of course.
-
-{% include image_caption.html imageurl="/images/2022-10-26-linz/IMG_0450.jpg" title="" caption="Johannes Kepler University campus" %}
-
-Travel tip: although there is an airport in Linz be sure to take the train, otherwise you might end up being the only person who took a flight to the city. In addition to that dubious achievement train schedule is much more flexible.
+There are at least two use cases for telepresence robots in hospitals: reducing the workload of the personnel and giving the patients a possibility to communicate with their friends and relatives.
+At this time our experiment setup included 4 nurses “visiting” the patients via a telepresence robot from a room located in the same building. We collected responses from both the nurses and the patients and will publish the results soon. Although in general the feedback was positive, we ourselves are not satisfied with the results for a purely technical reason. Wi-Fi connectivity in the hospital leaves much to be desired to say the least and as the robots are very sensitive to the quality of data transmission in such cases, we use our own 4G access point. However, East Tallinn Central Hospital is located in an old building with very thick walls, and we experienced occasional freezes and image quality loss. Although the nurses were very optimistic, we think that more sophisticated infrastructure is required for telepresence robots to be used in such environments.
