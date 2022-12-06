@@ -9,7 +9,7 @@ tags: [conference]
 
 Although this post was intended to give some insights on the article presentation, it is impossible to pass over the venue of the conference - University of Zaragoza, established in 1542, but still in all its glory.
 
-The topic of the presentation delivered by Aleksei Talisainen was " Higher Education Teachers' perceptions about teaching and learning related qualities of telepresence robots". The slides of the presentation [are available here](documents/2022-11-zaragoza-slides-teacher-perception.pdf). and below you will find a brief overview of the report.
+The topic of the presentation delivered by Aleksei Talisainen was " Higher Education Teachers' perceptions about teaching and learning related qualities of telepresence robots". The slides of the presentation [are available here](documents/2022-11-zaragoza-slides-teacher-perception.pdf) and below you will find a brief overview of the report.
 
 <!--more-->
 
