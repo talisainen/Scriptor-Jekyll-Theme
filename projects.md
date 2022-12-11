@@ -1,20 +1,20 @@
 ---
 layout: page
-title: projects
+title: Projects
 description: Projects "Creativity Matters" group leads or participates in
 ---
 
-
-## Current projects
-
 + **PYNT (Present Yet Not There)** -  creating an international community of both research institutions and end-users who are interested in developing and promoting different types of remote communication methods and in particular, robotics.
 
-+ **EuroTEQ international course "Enhancing Social Interaction in Education and Business by using Telepresence Robots"** - tThe core idea of the course is to discover the capabilities of telepresence robotics (TPR) in enhancing social interaction (in different contexts, including education and business) and learn to deploy, configure and extend such robots. E-course supports "Enhancing Social Interaction in Education and Business by using Telepresence Robots". The course consists of six learning experience modules (1 ECTS each): (1) video conferencing vs TPR; (2) social and ethical aspects of TPR; (3) TPR in collaborative learning; (4) teaching tele-presented students - opportunities and challenges; (5) the technical limitations of TPR; (6) how TPR technically work and how to modify them.
++ **EuroTEQ international course "Enhancing Social Interaction in Education and Business by using Telepresence Robots"** - the core idea of the course is to discover the capabilities of telepresence robotics (TPR) in enhancing social interaction and learn to deploy, configure and extend such robots. The course consists of six learning experience modules (1 ECTS each): (1) video conferencing vs TPR; (2) social and ethical aspects of TPR; (3) TPR in collaborative learning; (4) teaching tele-presented students - opportunities and challenges; (5) the technical limitations of TPR; (6) how TPR technically work and how to modify them.
+
+The official [course curriculum](documents/Enhancing-Social-Interaction-in-Education-and-Business-by-using-Telepresence-Robots-ICY0032.pdf)
 
 +  EuroTEQ  - going blended
 
-+ **ReSTELA** -  the aim of the project (ReSTELA is an acronym for Remote STEM Labs) is to create robotics labs, where students can parcitipate remotely. Current plan includes a compact computer that can ba accessed using some remote connection protocol (VNC, RDP etc.) connected to a programmable microcontrolled with sensors and actuators. In addition to remotely programming the controller student will have a feedback of his/her actions using a camera installed over the working surface.
-ReSTELA is a joint project between TalTech IT College (that’s us), [European Centre for Emerging Competencies](https://ecect.eu/) and Technologies and [Scuola di Robotica](https://www.scuoladirobotica.it/en/home-eng/).
++ **ReSTELA** -  is aimed to create robotics labs, where students can parcitipate remotely. Current plan includes a compact computer that can be accessed using some remote connection protocol (VNC, RDP etc.) connected to a programmable microcontrolled with sensors and actuators. In addition to remotely programming the controller student will have a feedback of his/her actions using a camera installed over the working area.
+ReSTELA is a joint project between TalTech IT College (that’s us), [European Centre for Emerging Competencies and Technologies](https://ecect.eu/) and [Scuola di Robotica](https://www.scuoladirobotica.it/en/home-eng/).
+
 The official web-page of the project [https://restela.eu/](https://restela.eu/).
 
 
