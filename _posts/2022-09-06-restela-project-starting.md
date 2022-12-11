@@ -3,7 +3,7 @@ layout: post
 title: "ReSTELA project launch"
 description: ""
 date: 2022-09-06
-feature_image: images/2202-09-06-restela-project-starting/ReStela-logo.jpg
+feature_image: images/2022-09-06-restela-project-starting/ReStela-logo.jpg
 tags: [partnership, Erasmus, ReSTELA]
 ---
 
