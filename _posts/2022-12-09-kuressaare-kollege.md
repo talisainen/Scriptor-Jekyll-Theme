@@ -16,5 +16,5 @@ Kuressaare is the biggest city on a rather remote [Saaremaa](https://en.wikipedi
 
 We had to improvise and it appears that [lavelier microphone]([lavalier microphone](https://en.wikipedia.org/wiki/Lavalier_microphone) is totally compatible with Double 3 robot, although the transmiteer/battery module should have been places lower on the pole not to jeopardize stability
 
-{% include image_caption.html imageurl="/images/2022-12-09-kuressaare-kollege/lavalier-mic.jpg" title="Double robot with external microphone" caption="Double robot with external microphone" %}
+
 
