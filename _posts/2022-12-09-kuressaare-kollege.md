@@ -14,7 +14,7 @@ Since the capabilities of the built-in microphone were obviously insufficient fo
 
 Kuressaare is the biggest city on a rather remote [Saaremaa](https://en.wikipedia.org/wiki/Saaremaa) island and telepresence robot is exactly what you need if a two-hour drive on snowy roads and a ferry crossing isn't your dream plan for a weekend.
 
-We had to improvise and it appears that [lavelier microphone]([lavalier microphone](https://en.wikipedia.org/wiki/Lavalier_microphone) is totally compatible with Double 3 robot, although the transmiteer/battery module should have been places lower on the pole not to jeopardize stability
+We had to improvise and it appears that [lavalier microphone](https://en.wikipedia.org/wiki/Lavalier_microphone) is totally compatible with Double 3 robot, although the transmitter/battery module should have been places lower on the pole not to jeopardize the stability.
 
 {% include image_caption.html imageurl="images/2022-12-09-kuressaare-kollege/lavalier-mic.jpg" title="Double robot with external microphone" caption="Double robot with external microphone" %}
 
