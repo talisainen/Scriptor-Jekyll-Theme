@@ -7,10 +7,15 @@ description:
 
 ## 2022
 
-+ [Higher Education Teachers' Perceptions of Teaching and Learning Related Qualities of Telepresence Robots](http://cm.taltech.ee) on Robot2022 conference in Zaragoza, November 2022.
-+ [Telepresence Robots in Higher Education – The Current State of Research](https://link.springer.com/chapter/10.1007/978-3-031-12848-6_12)
-+ [Conceptualising Micro-credentials in the Higher Education Research Landscape. A Literature Review](https://link.springer.com/chapter/10.1007/978-981-19-5240-1_13)
-+ 
++ [Higher education personnel’s perceptions about telepresence robots](https://www.frontiersin.org/articles/10.3389/frobt.2022.976836/full), Frontiers in Robotics and AI.
+
++ [Aspects of Using Telepresence Robot in a Higher Education STEAM Workshop. Lecture Notes in Computer Science](https://link.springer.com/chapter/10.1007/978-3-031-21047-1_2), Lecture Notes in Computer Science.
+
++ [Higher Education Teachers' Perceptions of Teaching and Learning Related Qualities of Telepresence Robots](http://cm.taltech.ee), Robot2022 conference in Zaragoza, November 2022.
+
++ [Telepresence Robots in Higher Education – The Current State of Research](https://link.springer.com/chapter/10.1007/978-3-031-12848-6_12), 13th International Conference on Robotics in Education.
+
++ [Conceptualising Micro-credentials in the Higher Education Research Landscape. A Literature Review](https://link.springer.com/chapter/10.1007/978-981-19-5240-1_13), 7th International Conference on Smart Learning Ecosystem and Regional Development.
 
 <!-- This is a pragraph. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
 
