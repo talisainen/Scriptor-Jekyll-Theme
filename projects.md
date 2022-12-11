@@ -10,7 +10,7 @@ description: Projects "Creativity Matters" group leads or participates in
 
 The official [course curriculum](documents/Enhancing-Social-Interaction-in-Education-and-Business-by-using-Telepresence-Robots-ICY0032.pdf)
 
-+  <span style="color: red;">EuroTEQ  - going blended</span>
++  **EuroTEQ**  - going blended
 
 + **ReSTELA** -  is aimed to create robotics labs, where students can parcitipate remotely. Current plan includes a compact computer that can be accessed using some remote connection protocol (VNC, RDP etc.) connected to a programmable microcontrolled with sensors and actuators. In addition to remotely programming the controller student will have a feedback of his/her actions using a camera installed over the working area.
 ReSTELA is a joint project between TalTech IT College (that’s us), [European Centre for Emerging Competencies and Technologies](https://ecect.eu/) and [Scuola di Robotica](https://www.scuoladirobotica.it/en/home-eng/).
