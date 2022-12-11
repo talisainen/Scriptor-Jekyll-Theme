@@ -3,7 +3,7 @@ layout: post
 title: "Experiment in East Tallinn Central Hospital"
 description: ""
 date: 2022-11-26
-feature_image: images/2022-12-26-itk-eksperiment/2022-12-ikt-nurse.jpg
+feature_image: images/2022-11-26-itk-eksperiment/2022-12-ikt-nurse.jpg
 tags: [partnership, experiment]
 ---
 
