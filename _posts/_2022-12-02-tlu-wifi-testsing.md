@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Experimenting with unreliable network connections"
+title: "Experimenting with unreliable network connections (draft)"
 description: ""
 date: 2022-12-02
 feature_image: images/2022-12-02-tlu-wifi-testing/zyxel-lte-wifi-router.png
@@ -12,3 +12,6 @@ In case you missed it, in one of our [previous publications](https://candid-raba
 
 <!--more-->
 
+We decided not to involve Ohmni in this experiment, because we experience issues with connection in far better conditions and  
+
+<!-- apparently we found bug -->
