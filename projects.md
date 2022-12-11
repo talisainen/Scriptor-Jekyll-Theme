@@ -15,6 +15,7 @@ description: Projects "Creativity Matters" group leads or participates in
 
 + **ReSTELA** -  the aim of the project (ReSTELA is an acronym for Remote STEM Labs) is to create robotics labs, where students can parcitipate remotely. Current plan includes a compact computer that can ba accessed using some remote connection protocol (VNC, RDP etc.) connected to a programmable microcontrolled with sensors and actuators. In addition to remotely programming the controller student will have a feedback of his/her actions using a camera installed over the working surface.
 ReSTELA is a joint project between TalTech IT College (that’s us), [European Centre for Emerging Competencies](https://ecect.eu/) and Technologies and [Scuola di Robotica](https://www.scuoladirobotica.it/en/home-eng/).
+The official web-page of the project [https://restela.eu/](https://restela.eu/).
 
 
 <!-- This is a pragraph. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
