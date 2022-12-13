@@ -14,5 +14,3 @@ There are at least two use cases for telepresence robots in hospitals: reducing 
 At this time our experiment setup included 4 nurses “visiting” the patients via a telepresence robot from a room located in the same building. We collected responses from both the nurses and the patients and will publish the results soon.
 
 Although in general the feedback was positive, we ourselves are not satisfied with the results for a purely technical reason. Wi-Fi connectivity in the hospital leaves much to be desired to say the least and as the robots are very sensitive to the quality of data transmission in such cases, we use our own 4G access point. However, East Tallinn Central Hospital is located in an old building with very thick walls, and we experienced occasional freezes and image quality loss. Although the nurses were very optimistic, we think that more sophisticated infrastructure is required for telepresence robots to be used in such environments.
-
-<!--more-->

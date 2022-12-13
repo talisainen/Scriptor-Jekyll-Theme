@@ -14,4 +14,3 @@ ReSTELA is an acronym for *Remote STEM Labs* and a joint project between TalTech
 Obviously, the initial setup should be done by an assistant, apart from that we expect the students to work with programmable controllers independently and remotely.
 
 **Things we love** about the project: the outputs of our combined efforts will be freely available for all parties interested, including full description of the platform and materials as well as detailed description of the labs we create.
-
