@@ -12,6 +12,10 @@ In case you missed it, in one of our [previous publications](https://candid-raba
 
 <!--more-->
 
+
+
+{% include image_caption.html imageurl="images/2022-12-02-tlu-wifi-testing/temi-and-double.jpg" title="" caption="Temi and Double discussing TLU Wi-Fi" %}
+
 We decided not to involve Ohmni in this experiment, because we experience issues with connection in far better conditions and  
 
-<!-- apparently we found bug -->
+<!-- apparently we found a bug -->
