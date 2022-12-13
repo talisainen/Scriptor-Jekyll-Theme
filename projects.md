@@ -6,61 +6,18 @@ description: Projects "Creativity Matters" group leads or participates in
 
 + **PYNT (Present Yet Not There)** -  creating an international community of both research institutions and end-users who are interested in developing and promoting different types of remote communication methods and in particular, robotics.
 
-+ **EuroTEQ international course "Enhancing Social Interaction in Education and Business by using Telepresence Robots"** - the core idea of the course is to discover the capabilities of telepresence robotics (TPR) in enhancing social interaction and learn to deploy, configure and extend such robots. The course consists of six learning experience modules (1 ECTS each): (1) video conferencing vs TPR; (2) social and ethical aspects of TPR; (3) TPR in collaborative learning; (4) teaching tele-presented students - opportunities and challenges; (5) the technical limitations of TPR; (6) how TPR technically work and how to modify them.\
++ **EuroTEQ international course "Enhancing Social Interaction in Education and Business by using Telepresence Robots"** - the core idea of the course is to discover the capabilities of telepresence robotics (TPR) in enhancing social interaction and learn to deploy, configure and extend such robots. The course consists of six learning experience modules, 1 ECTS each: (1) video conferencing vs TPR; (2) social and ethical aspects of TPR; (3) TPR in collaborative learning; (4) teaching tele-presented students - opportunities and challenges; (5) the technical limitations of TPR; (6) how TPR technically work and how to modify them.\
 The official [course curriculum](documents/Enhancing-Social-Interaction-in-Education-and-Business-by-using-Telepresence-Robots-ICY0032.pdf).
 
-+  **EuroTEQ**  - going blended
++ **EuroTEQ** - the goal of the project is to diversify and update the didactic repertoire of IT college teachers, making it more suitable for hybrid learning and various forms of online learning, including synchronous hybrid learning, telepresence robots.  We translate and work through the material prepared by [Climate-KIC Holding](https://www.climate-kic.org/), which is aimed specifically at courses that use the blended learning format.\
+We are piloting the autumn semester study by involving telepresence robots, including students who participate in the study via the robot.
 
-+ **ReSTELA** -  is aimed to create robotics labs, where students can parcitipate remotely. Current plan includes a compact computer that can be accessed using some remote connection protocol (VNC, RDP etc.) connected to a programmable microcontrolled with sensors and actuators. In addition to remotely programming the controller student will have a feedback of his/her actions using a camera installed over the working area.
++ **ReSTELA** - is aimed to create robotics labs, where students can parcitipate remotely. Current plan includes a compact computer that can be accessed using some remote connection protocol (VNC, RDP etc.) connected to a programmable microcontrolled with sensors and actuators. In addition to remotely programming the controller student will have a feedback of his/her actions using a camera installed over the working area.
 ReSTELA is a joint project between TalTech IT College (that’s us), [European Centre for Emerging Competencies and Technologies](https://ecect.eu/) and [Scuola di Robotica](https://www.scuoladirobotica.it/en/home-eng/).\
 The official web-page of the project [https://restela.eu/](https://restela.eu/).
 
 
-<!-- This is a pragraph. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
-
-# Heading 1
-
-**Quisque facilisis erat a dui**. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
-
-## Heading 2
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-### Heading 3
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-#### Heading 4
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
-
-##### Heading 5
-
-Curabitur pellentesque facilisis orci, ut rhoncus nulla scelerisque ac. Integer in magna vel justo venenatis ornare vitae vel sem.
-
-###### Heading 6
-
-Nulla tempus tortor nec nunc volutpat commodo. Vivamus efficitur imperdiet velit sagittis pellentesque. In fringilla dui nec dolor sollicitudin, et scelerisque elit pellentesque. Integer vestibulum viverra sem, vel ornare nibh. Proin lobortis elit nunc, ut consequat elit vulputate sit amet.
-
-## Emphasis
-
-**This is bold text**
-
-*This is italic text*
-
-~~Strikethrough~~
-
-## Links
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-## Quoting
-
->“Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.”
-
-Lorem ipsum dolor sit amet, `consectetuer adipiscing` elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+<!-- 
 
 ***
 
