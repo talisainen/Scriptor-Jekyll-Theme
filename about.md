@@ -57,7 +57,7 @@ feature_image: #images/teams-photos/team.jpg
 </td>
 </tr>
 <tr>
-<td markdown="span">Katrin Aasma/td>
+<td markdown="span">**Katrin Aasma**</td>
 <td markdown="span">team assistant of IT College
 </td>
 </tr>
