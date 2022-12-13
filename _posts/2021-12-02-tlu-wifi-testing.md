@@ -22,7 +22,7 @@ The experiment was run during evening time on Friday, when Tallinn University Wi
 - 2.4 GHz network created by iPhone 11 Pro with Tele2 mobile network provider
 - 2.4GHz and 5 GHz networks created by Zyxel LTE2566-M634 4G LTE Mobile WiFi Router (the one on the first image) with Telia mobile network provider
 
-{% include image_full.html imageurl="images/2022-12-02-tlu-wifi-testing/temi-and-double.jpg" title="" caption="Temi and Double discussing TLU Wi-Fi" %}
+{% include image_caption.html imageurl="images/2022-12-02-tlu-wifi-testing/temi-and-double.jpg" title="" caption="Temi and Double discussing TLU Wi-Fi" %}
 
 Not to go into details, but we found Temi to be less reliable and more prone to losing connection, however it might be partially compensated by its higher self-sustainability and using offline maps when moving.
 
