@@ -7,8 +7,8 @@ feature_image: #images/teams-photos/team.jpg
 
 <table>
 <colgroup>
-<col width="20%" />
-<col width="80%" />
+<col width="30%" />
+<col width="70%" />
 </colgroup>
 <!-- <thead>
 <tr class="header">
@@ -19,16 +19,56 @@ feature_image: #images/teams-photos/team.jpg
 <tbody>
 <tr>
 <td markdown="span">[**Janika Leoste**](https://www.etis.ee/CV/Janika_Leoste/eng)</td>
-<td markdown="span">postdoctoral researcher - team lead.\</td>
+<td markdown="span">postdoctoral researcher - team lead</td>
 </tr>
 <tr>
 <td markdown="span">[**Kalle Tammemäe**](https://www.etis.ee/CV/Kalle_Tammem%C3%A4e)</td>
-<td markdown="span">head of IT College.
+<td markdown="span">head of IT College
 </td>
 </tr>
 <tr>
 <td markdown="span">[**Jaanus Pöial**](https://www.etis.ee/CV/Jaanus_P%C3%B6ial/eng)</td>
-<td markdown="span">associate professor.
+<td markdown="span">associate professor
+</td>
+</tr>
+<tr>
+<td markdown="span">[**Kaido Kikkas**](https://www.etis.ee/CV/Kaido_Kikkas/eng)</td>
+<td markdown="span">associate professor
+</td>
+</tr>
+<tr>
+<td markdown="span">[**Aleksei Talisainen**](https://www.etis.ee/CV/atalisainen/eng)</td>
+<td markdown="span">Junior researcher
+</td>
+</tr>
+<tr>
+<td markdown="span">[**Tiina Kasuk**](https://www.etis.ee/CV/Tiina_Kasuk/eng)</td>
+<td markdown="span">Junior researcher
+</td>
+</tr>
+<tr>
+<td markdown="span">[**Katrin Kangur**](https://www.etis.ee/CV/Katrin_Kangur/eng)</td>
+<td markdown="span">reseacher
+</td>
+</tr>
+<tr>
+<td markdown="span">**Kristel Marmor**</td>
+<td markdown="span">head of studies of IT College
+</td>
+</tr>
+<tr>
+<td markdown="span">Katrin Aasma/td>
+<td markdown="span">team assistant of IT College
+</td>
+</tr>
+<tr>
+<td markdown="span">[**Martin Rebane**](https://www.etis.ee/CV/Martin_Rebane/eng)</td>
+<td markdown="span">doctoral student, robotics expert
+</td>
+</tr>
+<tr>
+<td markdown="span">[**Sirje Virkus**](https://www.etis.ee/CV/Sirje_Virkus/eng)</td>
+<td markdown="span">professor of information science
 </td>
 </tr>
 </tbody>
