@@ -7,8 +7,8 @@ feature_image: #images/teams-photos/team.jpg
 
 <table>
 <colgroup>
-<col width="35%" />
-<col width="65%" />
+<col width="30%" />
+<col width="70%" />
 </colgroup>
 <!-- <thead>
 <tr class="header">
@@ -19,7 +19,7 @@ feature_image: #images/teams-photos/team.jpg
 <tbody>
 <tr>
 <td markdown="span">[**Janika Leoste**](https://www.etis.ee/CV/Janika_Leoste/eng)</td>
-<td markdown="span">postdoctoral researcher - team lead</td>
+<td markdown="span">postdoctoral researcher, team lead. [janika.leoste@ttu.ee](mailto:janika.leoste@ttu.ee)</td>
 </tr>
 <tr>
 <td markdown="span">[**Kalle Tammemäe**](https://www.etis.ee/CV/Kalle_Tammem%C3%A4e)</td>
