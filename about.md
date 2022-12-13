@@ -7,8 +7,8 @@ feature_image: #images/teams-photos/team.jpg
 
 <table>
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="35%" />
+<col width="65%" />
 </colgroup>
 <!-- <thead>
 <tr class="header">
@@ -38,12 +38,12 @@ feature_image: #images/teams-photos/team.jpg
 </tr>
 <tr>
 <td markdown="span">[**Aleksei Talisainen**](https://www.etis.ee/CV/atalisainen/eng)</td>
-<td markdown="span">Junior researcher
+<td markdown="span">junior researcher
 </td>
 </tr>
 <tr>
 <td markdown="span">[**Tiina Kasuk**](https://www.etis.ee/CV/Tiina_Kasuk/eng)</td>
-<td markdown="span">Junior researcher
+<td markdown="span">junior researcher
 </td>
 </tr>
 <tr>
