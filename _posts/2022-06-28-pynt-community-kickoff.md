@@ -4,7 +4,7 @@ title: "PYNT project kick-off meeting"
 description: ""
 date: 2022-10-04
 feature_image: images/2022-06-28-pynt-kickoff/pynt1.jpg
-tags: [meeting, PYNT]
+tags: [PYNT, meeting]
 ---
 
 On the 16th of June we hosted a kick-off meeting for a project we named PYNT - Present Yet Not There. Yes, we know about consecution and the order of words in a sentence, but it's more fun this way.
