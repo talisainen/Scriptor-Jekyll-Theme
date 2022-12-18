@@ -73,6 +73,7 @@ feature_image: #images/teams-photos/team.jpg
 </tr>
 </tbody>
 </table>
+**Contact us as [janika.leoste@taltech.ee](mailto:janika.leoste@taltech.ee)
 
 <!-- >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite> -->
 
