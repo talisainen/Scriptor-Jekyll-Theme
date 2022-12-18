@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The team
+title: 
 description: 
 feature_image: #images/teams-photos/team.jpg
 ---
