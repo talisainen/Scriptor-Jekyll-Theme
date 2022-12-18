@@ -40,6 +40,8 @@ navigation:
     url: /projects/
   - text: Publications
     url: /publications/
+  - text: Contact us
+    url: /contact/
   # - text: Download
     # url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
