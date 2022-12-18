@@ -5,25 +5,7 @@ description:
 feature_image: #images/teams-photos/team.jpg
 ---
 
-<form action="https://formspree.io/f/xbjbnnlk" method="POST">
-
-    <label>
-      Your email:
-      <input type="email" name="email">
-    </label>
-  
-    <label>
-      Your message:
-      <textarea name="message"></textarea>
-    </label>
-  
-    <button type="submit">Send</button>
-  </form>
-
-
-
-
-  <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+  <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xbjbnnlk" method="post">
     <fieldset id="fs-frm-inputs">
       <label for="email-address">Your contact email address</label>
       <input type="email" name="_replyto" id="email-address" placeholder="your@email.com" required="">
