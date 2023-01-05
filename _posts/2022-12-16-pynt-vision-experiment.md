@@ -12,7 +12,6 @@ It was prefaced with a seminar where certain topics regarding human-robot intera
 
 
 Janika Leoste opened the seminar with a keynote based on her report "[Are telepresence robots here to stay](https://www.youtube.com/watch?v=fhth2bc7gZ4)" that was followed by a presentation on a topic "Take the power of storytelling and gamification" by John Heijligers and "Lecturing versus active learning" that continued with a discussion about the reasons students or lecturers sometimes resist active learning and are there any ways to support them in embracing new methodic.\
-More details below.
 
 <!--more-->
 
