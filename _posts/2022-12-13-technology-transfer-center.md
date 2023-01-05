@@ -3,7 +3,7 @@ layout: post
 title: "Meeting at TalTech Techology Transfer Center"
 description: ""
 date: 2022-12-13
-feature_image: /2022-12-13-technology-transfer-center/52565927312_c101db8980_k.jpg
+feature_image: images/2022-12-13-technology-transfer-center/52565927312_c101db8980_k.jpg
 tags: [partnership]
 ---
 
