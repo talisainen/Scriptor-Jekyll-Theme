@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Erasmus+ STEM upgrade seminar"
+title: "Telepresence robots video quality and interraction study"
 description: ""
 date: 2022-12-15
 # feature_image: /images2022-12-15-seminar-with-endhoven-jyvaskyla/meeting.jpg

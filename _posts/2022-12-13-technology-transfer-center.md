@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Erasmus+ STEM upgrade seminar"
+title: "Meeting at TalTech Techology Transfer Center"
 description: ""
 date: 2022-12-13
 # feature_image: /images/2022-10-26-linz/IMG_0448.jpg

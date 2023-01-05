@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Erasmus+ STEM upgrade seminar"
+title: "Seminar with Endhoven University and Jyväskylä University"
 description: ""
 date: 2022-12-15
 feature_image: /images2022-12-15-seminar-with-endhoven-jyvaskyla/meeting.jpg
