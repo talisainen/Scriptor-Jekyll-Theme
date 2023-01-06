@@ -4,8 +4,17 @@ title: Publications
 description: 
 ---
 
+## 2023
+
++ "Pair programming with a telepresence robot", K. 14th International Conference on Robotics in Education
+
++ "Keeping distance with a telepresence robot a pilot study", Frontiers in Education. Approved for publication
+
++ "Telepresence robots from the perspective of psychology and educational science", Frontiers in Education. Approved for publication
 
 ## 2022
+
++ [Higher Education Teachers’ Perceptions About Teaching and Learning Related Qualities of Telepresence Robots](https://link.springer.com/chapter/10.1007/978-3-031-21065-5_43), Lecture Notes in Networks and Systems
 
 + [Higher education personnel’s perceptions about telepresence robots](https://www.frontiersin.org/articles/10.3389/frobt.2022.976836/full), Frontiers in Robotics and AI.
 
