@@ -6,6 +6,8 @@ description:
 
 ## 2023
 
++ [Swimming Figures with Robots](https://link.springer.com/chapter/10.1007/978-3-030-63128-4_60)
+
 + "Pair programming with a telepresence robot", K. 14th International Conference on Robotics in Education
 
 + "Keeping distance with a telepresence robot a pilot study", Frontiers in Education. Approved for publication

@@ -47,11 +47,11 @@ Creativity Matters research group at Taltech IT College is a multidisciplinary t
             <td markdown="span">junior researcher</td>
         </tr>
         <tr>
-            <td markdown="span">**Kristel Marmor**</td>
+            <td markdown="span">[**Kristel Marmor**](https://taltech.ee/kontaktid/kristel-marmor)</td>
             <td markdown="span">IT College head of studies</td>
         </tr>
         <tr>
-            <td markdown="span">**Katrin Aasma**</td>
+            <td markdown="span">[**Katrin Aasma**](https://taltech.ee/kontaktid/katrin-aasma)</td>
             <td markdown="span">IT College team assistant</td>
         </tr>
         <tr>
@@ -64,10 +64,3 @@ Creativity Matters research group at Taltech IT College is a multidisciplinary t
         </tr>
     </tbody>
 </table>
-
-<!-- >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite> -->
-
-
-<!-- Looking forward to new partnerships! -->
-
-<!-- *Thank You for reading!* -->
