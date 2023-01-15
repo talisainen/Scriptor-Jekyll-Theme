@@ -5,10 +5,10 @@ description:
 feature_image: #images/teams-photos/team.jpg
 ---
 
-Creativity Matters research group at Taltech IT College is a multidisciplinary team that focuses on IT didactics in higher education. Our main research lines are: using telepresence and personal assistant robots in higher education and healthcare; innovative blended and online teaching methods; STEAM approach integration into IT teaching.\
+Creativity Matters research group at Taltech IT College is a multidisciplinary team that focuses on IT didactics in higher education. Our main research lines are: using telepresence and personal assistant robots in higher education and healthcare; innovative blended and online teaching methods; STEAM approach integration into IT teaching.
+\
 
 ### Members
-
 <table>
     <colgroup>
         <col width="35%" />
