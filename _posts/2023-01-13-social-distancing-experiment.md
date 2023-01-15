@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Would you keep away from the robot?"
+title: "Would you keep away from a robot?"
 description: ""
 date: 2023-01-13
 feature_image: images/2023-01-13-social-distancing-experiment/norvegian-bus-stop.jpg
