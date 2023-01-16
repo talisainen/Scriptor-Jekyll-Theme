@@ -6,17 +6,17 @@ description:
 
 ## 2023
 
++ "Pair programming with a telepresence robot", K. 14th International Conference on Robotics in Education.
+
 + [Swimming Figures with Robots](https://link.springer.com/chapter/10.1007/978-3-030-63128-4_60)
 
-+ "Pair programming with a telepresence robot", K. 14th International Conference on Robotics in Education
++ [Keeping distance with a telepresence robot a pilot study](https://www.frontiersin.org/articles/10.3389/feduc.2022.1046461/full), Frontiers in Education.
 
-+ "Keeping distance with a telepresence robot a pilot study", Frontiers in Education. Approved for publication
-
-+ "Telepresence robots from the perspective of psychology and educational science", Frontiers in Education. Approved for publication
++ [Telepresence robots from the perspective of psychology and educational science](https://www.emerald.com/insight/content/doi/10.1108/ILS-09-2022-0106/full/html), Frontiers in Education.
 
 ## 2022
 
-+ [Higher Education Teachers’ Perceptions About Teaching and Learning Related Qualities of Telepresence Robots](https://link.springer.com/chapter/10.1007/978-3-031-21065-5_43), Lecture Notes in Networks and Systems
++ [Higher Education Teachers’ Perceptions About Teaching and Learning Related Qualities of Telepresence Robots](https://link.springer.com/chapter/10.1007/978-3-031-21065-5_43), Lecture Notes in Networks and Systems.
 
 + [Higher education personnel’s perceptions about telepresence robots](https://www.frontiersin.org/articles/10.3389/frobt.2022.976836/full), Frontiers in Robotics and AI.
 
