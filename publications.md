@@ -6,9 +6,9 @@ description:
 
 ## 2023
 
-+ "Pair programming with a telepresence robot", K. 14th International Conference on Robotics in Education.
++ "Pair programming with a telepresence robot", 14th International Conference on Robotics in Education.
 
-+ [Swimming Figures with Robots](https://link.springer.com/chapter/10.1007/978-3-030-63128-4_60)
++ [Swimming Figures with Robots](https://link.springer.com/chapter/10.1007/978-3-030-63128-4_60), Advances in Intelligent Systems and Computing.
 
 + [Keeping distance with a telepresence robot a pilot study](https://www.frontiersin.org/articles/10.3389/feduc.2022.1046461/full), Frontiers in Education.
 
