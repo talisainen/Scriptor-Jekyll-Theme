@@ -22,7 +22,7 @@ description:
 
 + [Aspects of Using Telepresence Robot in a Higher Education STEAM Workshop. Lecture Notes in Computer Science](https://link.springer.com/chapter/10.1007/978-3-031-21047-1_2), Lecture Notes in Computer Science.
 
-+ [Higher Education Teachers' Perceptions of Teaching and Learning Related Qualities of Telepresence Robots](http://cm.taltech.ee), Robot2022 conference in Zaragoza, November 2022.
++ [Higher Education Teachers' Perceptions of Teaching and Learning Related Qualities of Telepresence Robots](https://link.springer.com/chapter/10.1007/978-3-031-21065-5_43), Iberian Robotics conference in Zaragoza, November 2022.
 
 + [Telepresence Robots in Higher Education – The Current State of Research](https://link.springer.com/chapter/10.1007/978-3-031-12848-6_12), 13th International Conference on Robotics in Education.
 
