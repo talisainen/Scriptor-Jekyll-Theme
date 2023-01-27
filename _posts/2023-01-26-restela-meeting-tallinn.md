@@ -3,7 +3,7 @@ layout: post
 title: "ReSTELA meeting and decisions"
 description: ""
 date: 2023-01-26
-feature_image: images/2023-01-26-restela-meeting-tallinn/restela-participants.jpg
+feature_image: images/2023-01-26-restela-meeting-tallinn/arduino.jpg
 tags: [partnership]
 ---
 
