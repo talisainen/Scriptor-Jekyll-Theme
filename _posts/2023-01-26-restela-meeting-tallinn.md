@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ReSTELA meeting and decisions"
+title: "ReSTELA meeting and decisions (picture unrelated)"
 description: ""
 date: 2023-01-26
 feature_image: images/2023-01-26-restela-meeting-tallinn/arduino.jpg
@@ -16,3 +16,5 @@ A research group from Cyprus, led by Professor George Georgiou, presented their 
 
 During the meeting, participants discussed previous efforts in creating remote robotics labs. Professor Georgiou presented several test labs that operate on a centralized infrastructure using virtual machines. It was concluded that this approach is more flexible and scalable than using micro-computers such as Raspberry Pi, and it was decided to continue the joint development using server infrastructure. Aleksei Talisainen from TalTech presented a stand-alone lab prototype and a telepresence robot for monitoring it.\
 The group also discussed potential challenges and pitfalls, and scheduled the next meeting.
+
+P. S. Although the cover photo does not represent the goal of the project, we use such setups as "dummy labs", as the main effort is aimed towards the infrastructure around the lab and remote access, not the content.
