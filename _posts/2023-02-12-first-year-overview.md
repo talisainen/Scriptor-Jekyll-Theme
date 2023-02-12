@@ -7,4 +7,4 @@ feature_image:
 tags: [partnership]
 ---
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=jO9rjm9NFVw" frameborder="0" allowfullscreen></iframe>
+{% youtube jO9rjm9NFVw %}
