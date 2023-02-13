@@ -7,3 +7,5 @@ tags: []
 ---
 
 Our team released a [short video](https://www.youtube.com/watch?v=jO9rjm9NFVw) of our work during the last year.
+
+{% include youtubePlayer.html id="jO9rjm9NFVw" %}
