@@ -10,6 +10,8 @@ tags: [partnership]
 Joint meeting for all [ReSTELA project](https://cm.taltech.ee/restela-project-starting) participants took place in Tallinn this week.
 A research group from Cyprus, led by Professor George Georgiou, presented their perspective on the project infrastructure, and Aleksei Talisainen from TalTech provided an overview of our vision for using telepresence robots in the project.
 
+{% include youtubePlayer.html id="jO9rjm9NFVw" %}
+
 <!--more-->
 
 {% include image_caption.html imageurl="/images/2023-01-26-restela-meeting-tallinn/restela-participants.jpg" title="" caption="Meeting participants in TalTech" %}
