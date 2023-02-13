@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PYNT meeting"
+title: "2022 year summary"
 description: ""
 date: 2022-02-12
 tags: [experiment, workshop]
