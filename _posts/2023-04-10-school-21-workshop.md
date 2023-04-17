@@ -3,7 +3,7 @@ layout: post
 title: "Robots go to school"
 description: ""
 date: 2023-04-10
-feature_image: images/2023-04-10-school-21-workshop/IMG_1721.jpg
+feature_image: images/2023-04-10-school-21-workshop/cover.jpg
 tags: [workshop]
 ---
 
