@@ -15,3 +15,5 @@ We also noticed a very peculiar thing <!--more--> - the participants very often 
 
 {% include youtubePlayer.html id="sPhqqKH7yj0" %}
 
+[More details on the event](https://taltech.ee/uudised/mitusada-pohikooli-opilast-tutvusid-telerobotitega) from TalTech PR department (in Estonian).
+
