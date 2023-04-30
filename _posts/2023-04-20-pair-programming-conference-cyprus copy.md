@@ -2,8 +2,8 @@
 layout: post
 title: "Pair programming with a robot"
 description: ""
-date: 2023-04-10
-feature_image: images/2023-20-04-pair-programming-conference-cyprus/cover.jpg
+date: 2023-04-20
+feature_image: images/2023-04-20-pair-programming-conference-cyprus/cover.jpg
 tags: [conference]
 ---
 
