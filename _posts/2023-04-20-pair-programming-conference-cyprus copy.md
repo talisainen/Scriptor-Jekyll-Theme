@@ -8,7 +8,7 @@ tags: [conference]
 ---
 
 
-To spare you the effort of googling “Pair programming is a software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently” ([Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)).
+To spare you the effort of googling, “pair programming is a software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently” ([Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)).
 
 
 Pair programming is considered to be an excellent method for beginners, as it helps to develop both coding and collaborative teamwork skills. Recently a new trend, known as "distributed pair programming," has emerged where participants are not physically present in the same location. We investigated whether telepresence robots could be used to facilitate this type of collaboration.
