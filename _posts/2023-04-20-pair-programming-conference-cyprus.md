@@ -22,4 +22,4 @@ Our case study revealed that telepresence robots are a suitable tool for worksho
 For more details on our study, please refer to the [conference slides](documents/2023-04-20-limasol-conf-slides-pair-programming.pdf).
 
 
-{% include image_caption.html imageurl="/images/2023-20-04-pair-programming-conference-cyprus/conf-faces.jpg" title="" caption="Faces of the conference" %}
+{% include image_caption.html imageurl="/images/2023-04-20-pair-programming-conference-cyprus/conf-faces.jpg" title="" caption="Faces of the conference" %}
