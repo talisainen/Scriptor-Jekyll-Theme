@@ -13,7 +13,9 @@ To spare you the effort of googling, “pair programming is a software developme
 
 Pair programming is considered to be an excellent method for beginners, as it helps to develop both coding and collaborative teamwork skills. Recently a new trend, known as "distributed pair programming" has emerged where participants are not physically present in the same location. We investigated whether telepresence robots could be used to facilitate this type of collaboration.
 
-As a result of this research Janika Leoste took the stage at the Real Robots in Education conference. Although telepresence robots offer the convenience of not having to travel to conferences, unfortunately, none were available in Limassol, Cyprus.
+In TalTech university pair programming is widely adopted by one of the members of our research group, associate professon [Jaanus Pöial](https://www.etis.ee/CV/Jaanus_P%C3%B6ial/eng), who designed the experiment and used the robots during his classes of "Algorithms and Data Structures" course.
+
+As a result of this research and based on the data collected by Jaanus, Janika Leoste took the stage at the Real Robots in Education conference. Although telepresence robots offer the convenience of not having to travel to conferences, unfortunately, none were available in Limassol, Cyprus.
 
 To sum up our results, there are both good and bad news. The bad news:  <!--more--> robots are as sensitive to Internet connection quality as they were a week and two weeks ago. The good news is that there are very few bad news apart from that!
 
