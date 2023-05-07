@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Telepresence Robots for Dummies"
+title: "Telepresence robots for dummies"
 description: ""
 date: 2023-05-07
 feature_image: images/2023-05-07-telepresence-for-granny/tpr-sketch.png
