@@ -67,7 +67,7 @@ Creativity Matters research group at Taltech IT College is a multidisciplinary t
             <td markdown="span">researcher</td>
         </tr>
         <tr>
-            <td markdown="span">[**Fuad Budagov**](#)</td>
+            <td markdown="span">[**Fuad Budagov**](https://www.etis.ee/CV/Fuad_Budagov/eng/)</td>
             <td markdown="span">junior researcher</td>
         </tr>
     </tbody>
