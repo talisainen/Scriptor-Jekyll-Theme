@@ -23,4 +23,7 @@ People
 
 [Tiina Kasuk](https://www.etis.ee/CV/Tiina_Kasuk/eng/)
 
+[Mohammad Tariq Meeran](https://www.etis.ee/CV/Mohammad%20Tariq_Meeran/eng/)
+
 [Zsolt Lavicza](https://www.researchgate.net/profile/Zsolt-Lavicza)
+
