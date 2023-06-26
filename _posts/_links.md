@@ -17,4 +17,10 @@ Hospitals
     [Tallinn Health College](https://ttk.ee/et) (Tallinna Tervishoiu Kõrgkool)
 
 
+People
+
+[Aleksei Talisainen](https://www.etis.ee/CV/atalisainen/eng/)
+
+[Tiina Kasuk](https://www.etis.ee/CV/Tiina_Kasuk/eng/)
+
 [Zsolt Lavicza](https://www.researchgate.net/profile/Zsolt-Lavicza)
