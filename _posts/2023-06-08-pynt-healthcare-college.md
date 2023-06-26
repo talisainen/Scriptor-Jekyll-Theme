@@ -16,7 +16,6 @@ As PYNT is essentially an international project, we invited our colleagues from 
 The meeting consisted of two main parts: the first one and the second one. Joosep Parts, the graduate of TalTech cybersecurity curriculum made a presentation on the topic that definitely deserves more attention globally: privacy concerns and security issues of telepresence robots. Let me give you a hint here: in contrast to teleconferencing software, it is not required for the second party to accept the incoming call from the remotely located robot' operator.
 
 The experiment itself unfolded in various scenarios, including the situations, where the student make manipulations with the patient (a dummy in our case) monitored and guided by the telepresented instructor, or helping people navigate in an unfamiliar large building – the situation very similar to the one elderly people find themselves in during hospital visits.
-The experiment unfolded in various scenarios within the college campus. Students, faculty, and visitors were encouraged to interact with the telepresence robots, initiating conversations, sharing stories, and engaging in activities. The robots facilitated communication by transmitting live audio and video feeds, enabling remote participants to see and hear everything while using the robot's movement to navigate the surroundings.
 
 {% include youtubePlayer.html id="VdBMQN_1CA0" %}
 
