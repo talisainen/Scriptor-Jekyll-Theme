@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Experiment in Tallinn Healthcare College"
+title: "TalTech Innovation Festival"
 description: ""
 date: 2023-06-15
 feature_image: images/2023-06-15-taltech-innovation-festival-2023/cover-image.png
