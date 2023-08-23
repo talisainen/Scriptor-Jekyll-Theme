@@ -3,7 +3,7 @@ layout: post
 title: "Temi goes to summer school"
 description: ""
 date: 2023-08-22
-feature_image: images/2023-06-08-pynt-healthcare-college/cover-iamge.jpg
+feature_image: 
 tags: [workshop, conference]
 ---
 
