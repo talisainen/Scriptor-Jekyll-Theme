@@ -3,11 +3,11 @@ layout: post
 title: "Temi goes to summer school"
 description: ""
 date: 2023-08-22
-feature_image: 
+feature_image: images/2023-08-22-temi-goes-to-summer-school/kohvitass.jpg
 tags: [workshop, conference]
 ---
 
-Summer School for Educational Technologies is an annual event dedicated to modern technologies in teaching and this year (with our assistance) Temi decided to participate. Around 100 teachers and educational technologists had a chance to familiarize themselves with Temi capabilities and discuss the possible applications in teaching/learning process.\
+Summer School for Educational Technologies is an annual event dedicated to modern technologies in teaching and this year (with our assistance) Temi decided to participate. About 100 teachers and educational technologists had a chance to familiarize themselves with Temi capabilities and discuss the possible applications in teaching/learning process.\
 Although we ourselves focus on higher education, it was important to investigate opportunities for using telepresence robots in secondary schools and test its Estonian voice recognition.
 [Maia Lust](https://www.etis.ee/CV/Maia_Lust/eng/), an educational technologist from Tallinna Pae Upper Secondary School and a PhD student of Tallinn University wrote a brief memo of the event.
 
