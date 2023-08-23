@@ -7,7 +7,7 @@ feature_image: images/2023-05-07-telepresence-for-granny/tpr-sketch.png
 tags: [FYI]
 ---
 
-Yesterday one of the students of our [Eurotech University course](/documents/Enhancing-Social-Interaction-in-Education-and-Business-by-using-Telepresence-Robots-ICY0032.pdf) submitted an assignment with the description of a telepresence robot "in the simplest way possible". Although the explanation if hard to translate from Estonian, it might (with minor modifications) make a great introduction for a scientific article. So, here comes the "Telepresence Robots for Dummies" by Siim Markus Kass:
+Yesterday one of the students of our [Eurotech University course](/documents/Enhancing-Social-Interaction-in-Education-and-Business-by-using-Telepresence-Robots-ICY0032.pdf) submitted an assignment with the description of a telepresence robot "in the simplest way possible". Although the explanation is hard to translate from Estonian, it might (with minor modifications) make a great introduction for a scientific article. So, here comes the "Telepresence Robots for Dummies" by Siim Markus Kass:
 
 > The practice demonstrated that my initial hypothesis “Telepresence robots are some pitiful clothes hangers” appeared to be wrong. With all their drawbacks these gadgets have something in them and I learned how to find use for it.\
 > I am totally aware that when the teacher reads this text, he won’t be too happy about it and will find many ways to change my mind, there in nothing bad in that, actually.\
