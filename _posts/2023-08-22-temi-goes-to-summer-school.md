@@ -7,7 +7,8 @@ feature_image:
 tags: [workshop, conference]
 ---
 
-Summer School for Educational Technologies is an annual event dedicated to modern technologies in teaching and this year (although with our assistance) Temi decided to participate. Around 100 teachers and educational technologists had a chance to familiarize themselves with its capabilities and discuss the possible applications in teaching/learning process.\
+Summer School for Educational Technologies is an annual event dedicated to modern technologies in teaching and this year (with our assistance) Temi decided to participate. Around 100 teachers and educational technologists had a chance to familiarize themselves with Temi capabilities and discuss the possible applications in teaching/learning process.\
+Although we ourselves focus on higher education, it was important to investigate opportunities for using telepresence robots in secondary schools and test its Estonian voice recognition.
 [Maia Lust](https://www.etis.ee/CV/Maia_Lust/eng/), an educational technologist from Tallinna Pae Gümnaasiumi and a PhD student of Tallinn University wrote a brief memo of the event.
 
 > Today, 22.08.2023, at the summer school for teachers of informatics and mathematics and educational technologists at Tallinn University of Technology, post-doctoral researcher Janika Leoste introduced the Temi robot assistant to teachers, which made some teachers marvel at the technological advances in robotics.\
