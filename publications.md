@@ -6,7 +6,9 @@ description:
 
 ## 2023
 
-+ "Pair programming with a telepresence robot", 14th International Conference on Robotics in Education.
++ [Using Telepresence Robots for Remote Participation in Technical Subjects in Higher Education](https://link.springer.com/chapter/10.1007/978-981-99-5540-4_8),  Part of "Advances in Sustainability Science and Technology".
+
++ [Pair programming with a telepresence robot](https://link.springer.com/chapter/10.1007/978-3-031-38454-7_13),  Lecture Notes in Networks and Systems.
 
 + [Swimming Figures with Robots](https://link.springer.com/chapter/10.1007/978-3-030-63128-4_60), Advances in Intelligent Systems and Computing.
 
