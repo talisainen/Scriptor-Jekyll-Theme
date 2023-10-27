@@ -3,7 +3,7 @@ layout: post
 title: "Researcher's night 2023"
 description: ""
 date: 2023-09-29
-# feature_image: images/2023-09-01-visit-to-viljandi/cover-image-viljandi.jpg
+feature_image: images/2023-09-29-researcher-night-2023/teadlaste-oo-cover.jpg
 tags: [conference, media]
 ---
 
