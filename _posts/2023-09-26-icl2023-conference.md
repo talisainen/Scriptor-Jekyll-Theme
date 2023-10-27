@@ -7,7 +7,7 @@ feature_image: images/2023-09-26-icl2023-conference/icl2023-cover.jpg
 tags: [conference]
 ---
 
-26th International Conference on Interactive Collaborative Learning and 52^nd IGIP International Conference on Engineering Pedagogy (ICL2023) took place in Madrid on 26-29 September 2023. Jaanus Pöial made a presentation „Using telepresence robots for ICT consultancy“, the first author of which was Janika Leoste, and on the covr photo you can see both of them guarding the conference banner.
+26th International Conference on Interactive Collaborative Learning and 52<sup>nd</sup> IGIP International Conference on Engineering Pedagogy (ICL2023) took place in Madrid on 26-29 September 2023. Jaanus Pöial made a presentation „Using telepresence robots for ICT consultancy“, the first author of which was Janika Leoste, and on the cover photo you can see both of them guarding the conference banner.
 
 <!--more-->
 
