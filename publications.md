@@ -6,6 +6,8 @@ description:
 
 ## 2023
 
++ [Exploring the power of telepresence: enhancing education through telepresence robots](https://www.emerald.com/insight/content/doi/10.1108/ILS-07-2023-0093/full/html),  Information and Learning Sciences.
+
 + [Using Telepresence Robots for Remote Participation in Technical Subjects in Higher Education](https://link.springer.com/chapter/10.1007/978-981-99-5540-4_8),  Part of "Advances in Sustainability Science and Technology".
 
 + [Pair programming with a telepresence robot](https://link.springer.com/chapter/10.1007/978-3-031-38454-7_13),  Lecture Notes in Networks and Systems.

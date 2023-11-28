@@ -20,5 +20,5 @@ Fuad presented a paper titled "Enhancing Inclusivity in Higher Education: The Ca
 
 The best evidence of Kalle and Fuad presentations success is the fact that the next symposium will be held in our university and we are definitely looking forward to it.
 
-P. S. A small quizz for those, who read the text to the end: find Kalle and Fuad on the cover image and contact us to get your prize.
+P. S. A small quizz for those, who read the text up to the end: find Kalle and Fuad on the cover image and contact us to get your prize.
 Hint: Kalle and Fuad photos are in "Team" section.
