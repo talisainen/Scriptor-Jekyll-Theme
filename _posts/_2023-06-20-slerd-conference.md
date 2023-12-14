@@ -13,7 +13,7 @@ Our research group was presented by [Mohammad Tariq Meeran](https://www.etis.ee/
 
 <!--more-->
 
-As an active participant of Erasmus+ project TEACH4EDU4 project, Tiina made a presentation dedicated to academic staff perceptions and attitudes towards learning analytics and it contained a brief overview of the current learning analytics methods used in Estonian higher education institutions based on Tallinn University and TalTech. 
+As an active participant of Erasmus+ TEACH4EDU4 project, Tiina made a presentation dedicated to academic staff perceptions and attitudes towards learning analytics and it contained a brief overview of the current learning analytics methods used in Estonian higher education institutions based on Tallinn University and TalTech. 
 
 
 
