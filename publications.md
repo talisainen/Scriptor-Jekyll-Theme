@@ -6,6 +6,8 @@ description:
 
 ## 2023
 
++ [Comparative Analysis of Telepresence Robots’ Video Performance: Evaluating Camera Capabilities for Remote Teaching and Learning](https://www.mdpi.com/2076-3417/14/1/233),  Applied Sciences, Advanced Robotics and Mechatronics.
+
 + [Exploring the power of telepresence: enhancing education through telepresence robots](https://www.emerald.com/insight/content/doi/10.1108/ILS-07-2023-0093/full/html),  Information and Learning Sciences.
 
 + [Using Telepresence Robots for Remote Participation in Technical Subjects in Higher Education](https://link.springer.com/chapter/10.1007/978-981-99-5540-4_8),  Part of "Advances in Sustainability Science and Technology".
