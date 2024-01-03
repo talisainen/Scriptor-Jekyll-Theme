@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Christmas experiment in Ülemiste city"
 description: ""
 date: 2023-12-11
 feature_image: images/2023-12-11-ulemiste-city-event/ulemiste-cover.jpg

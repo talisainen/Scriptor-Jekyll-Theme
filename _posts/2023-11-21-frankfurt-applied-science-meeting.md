@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meeting German ~~robots~~ friends"
+title: "Meeting German <del>robots</del> friends"
 description: ""
 date: 2023-11-21
 feature_image: images/2023-11-21-frankfurt-applied-science-meeting/frankfurt-cover.jpg
