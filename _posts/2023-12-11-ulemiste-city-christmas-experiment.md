@@ -3,7 +3,7 @@ layout: post
 title: "Christmas experiment in Ülemiste city"
 description: ""
 date: 2023-12-11
-feature_image: images/2023-12-11-ulemiste-city-event/ulemiste-cover.jpg
+feature_image: images/2023-12-11-ulemiste-city-christmas-experiment/ulemiste-cover.jpg
 tags: [meeting, partnership, media]
 ---
 
