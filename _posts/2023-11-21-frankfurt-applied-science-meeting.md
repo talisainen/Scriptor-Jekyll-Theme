@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Meeting German ~~robots~~ friends"
 description: ""
 date: 2023-11-21
 feature_image: images/2023-11-21-frankfurt-applied-science-meeting/frankfurt-cover.jpg
