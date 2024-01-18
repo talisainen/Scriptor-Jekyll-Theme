@@ -4,6 +4,10 @@ title: Publications
 description: 
 ---
 
+## 2024
+
++ [Testing Scenarios for Using Telepresence Robots in Healthcare Settings](https://www.sciencedirect.com/science/article/pii/S2001037024000059),  Computational and Structural Biotechnology Journal.
+
 ## 2023
 
 + [Comparative Analysis of Telepresence Robots’ Video Performance: Evaluating Camera Capabilities for Remote Teaching and Learning](https://www.mdpi.com/2076-3417/14/1/233),  Applied Sciences, Advanced Robotics and Mechatronics.
