@@ -6,6 +6,8 @@ description:
 
 ## 2024
 
++ [Keeping social distance in a classroom while interacting via a telepresence robot: a pilot study](https://www.frontiersin.org/articles/10.3389/fnbot.2024.1339000/abstract),  Frontiers in Neurorobotics.
+
 + [Using Telepresence Robots for ICT Consultancy](https://link.springer.com/chapter/10.1007/978-3-031-52667-1_17),  International Conference on Interactive Collaborative Learning.
 
 + [Testing Scenarios for Using Telepresence Robots in Healthcare Settings](https://www.sciencedirect.com/science/article/pii/S2001037024000059),  Computational and Structural Biotechnology Journal.
