@@ -6,40 +6,6 @@ feature_image: #images/teams-photos/team.jpg
 ---
 Creativity Matters research group at Taltech IT College is a multidisciplinary team that focuses on IT didactics in higher education. Our main research lines are: using telepresence and personal assistant robots in higher education and healthcare; innovative blended and online teaching methods; STEAM approach integration into IT teaching.
 ### Members
-
-| [**Janika Leoste**](https://www.etis.ee/CV/Janika_Leoste/eng)                                                                              |
-|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Janika is a postdoctoral researched with a background of teaching didactics and the research group team lead.                              |
-| [**Kalle Tammemäe**](https://www.etis.ee/CV/Kalle_Tammem%C3%A4e)                                                                           |
-| Associate professor in TalTech School of IT. Kalle research interest include FPGA, soft processors, hardware-Software co-design, and VHDL. |
-| [**Jaanus Pöial**](https://www.etis.ee/CV/Jaanus_P%C3%B6ial/eng)                                                                           |
-| [**Tarmo Robal**](https://www.etis.ee/CV/Tarmo_Robal/eng/)                                                                                 |
-| [**Katrin Kangur**](https://www.etis.ee/CV/Katrin_Kangur/eng)                                                                              |
-| [**Aleksei Talisainen**](https://www.etis.ee/CV/atalisainen/eng)                                                                           |
-| [**Tiina Kasuk**](https://www.etis.ee/CV/Tiina_Kasuk/eng)                                                                                  |
-| [**Kristel Marmor**](https://taltech.ee/kontaktid/kristel-marmor)                                                                          |
-| [**Katrin Aasma**](https://taltech.ee/kontaktid/katrin-aasma)                                                                              |
-| [**Sirje Virkus**](https://www.etis.ee/CV/Sirje_Virkus/eng)                                                                                |
-| [**Mohammad Tariq Meeran**](https://www.etis.ee/CV/Mohammad%20Tariq_Meeran/eng/)                                                           |
-| [**Fuad Budagov**](https://www.etis.ee/CV/Fuad_Budagov/eng/)                                                                               |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <table>
     <colgroup>
         <col width="35%" />
