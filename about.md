@@ -20,7 +20,7 @@ Creativity Matters research group at Taltech IT College is a multidisciplinary t
     <tbody>
         <tr>
             <td markdown="span">[**Janika Leoste**](https://www.etis.ee/CV/Janika_Leoste/eng)</td>
-            <td markdown="span">postdoctoral researcher, team lead</td>
+            <td markdown="span">Assistant Professor of IT Didactics, team lead</td>
         </tr>
         <tr>
             <td markdown="span">[**Kalle Tammemäe**](https://www.etis.ee/CV/Kalle_Tammem%C3%A4e)</td>
