@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ReSTELA project meeting in Genova"
+title: "Visit to Pihlakodu children's hospital"
 description: ""
 date: 2024-03-28
 feature_image: images/2024-03-28-tallinn-children-hospital/hospital-cover.jpg
