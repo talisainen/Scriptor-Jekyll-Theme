@@ -6,6 +6,8 @@ description:
 
 ## 2024
 
++ [Understanding the Potential of Telepresence Robots in Higher Education Learning: A Case Study](https://link.springer.com/chapter/10.1007/978-3-031-53960-2_45), Advances in Information and Communication.
+
 + [Keeping social distance in a classroom while interacting via a telepresence robot: a pilot study](https://www.frontiersin.org/articles/10.3389/fnbot.2024.1339000/abstract),  Frontiers in Neurorobotics.
 
 + [Using Telepresence Robots for ICT Consultancy](https://link.springer.com/chapter/10.1007/978-3-031-52667-1_17),  International Conference on Interactive Collaborative Learning.
