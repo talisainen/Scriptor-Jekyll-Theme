@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visit to Pihlakodu children's hospital"
+title: "Visit to Pihlakodu care home and Tallinn Children's hospital"
 description: ""
 date: 2024-03-28
 feature_image: images/2024-03-28-tallinn-children-hospital/hospital-cover.jpg
