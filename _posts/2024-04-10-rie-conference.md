@@ -7,7 +7,6 @@ feature_image: images/2024-04-10-rie-conference/cover-rie-conference.jpg
 tags: [conference]
 ---
 
-Janika Leoste and Kristel Marmor participated with presentations in the [Robots in Education](https://rie.science/2024/index.html) - RIE 2024 conference in Koblenz on April 10-12.
-In her presentation, Janika talked about the opinions of primary school students about the use of telepresence robots in teaching and learning, and Kristel's explained how university employees perceive themselves in a communication situation with a social service robot that plays the role of a house manager and leads them to the recommendation room.
-Janika also led the "Robots and children" session.
-
+Janika Leoste and Kristel Marmor delivered presentations at the [Robots in Education](https://rie.science/2024/index.html) (RIE) 2024 conference held in Koblenz from April 10th to 12th.
+During her presentation, Janika Leoste discussed the perspectives of primary school students regarding the integration of telepresence robots into educational practices. Meanwhile, Kristel Marmor elucidated the perceptions of university staff members within communication scenarios involving a social service robot functioning as a household manager, guiding them to a recommendation chamber.
+Furthermore, Janika Leoste moderated the session titled "Robots and Children" during the conference proceedings.
