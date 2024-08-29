@@ -1,21 +1,12 @@
 ---
 layout: post
-title: "Geriatronics Summit 2024"
+title: "EdTech seminar participation"
 description: ""
-date: 2024-07-09
-feature_image: images/2024-07-09-geriatronics-summit-2024/cover-stretch.jpg
-tags: [conference, meeting]
+date: 2024-08-15
+feature_image: images/2024-08-15-visiting-vikings/cover-vikings.jpg
+tags: [meeting, workshop]
 ---
 
-This year annual geriatronics summit took place in the most picturesque location one can imagine - in [Garmisch-Partenkirchen](images/2024-07-09-geriatronics-summit-2024/garmish.jpg).
-The conference in traditionally accompanied by the trade exhibition, where industry representatives demonstrate their latest products and developments. And we had more than one reson to attend.
-
-<!--more-->
-
-First of all, we had a pleasure to meed Mr. Aaron Edsinger, CEO of [Hello Robot](https://hello-robot.com/), a company behind Stretch robotic manipulator that we intend to purchase and hopefully dedicate far more than one blog post to.
-
-{% include youtubePlayer.html id="haauI2x2U1E" %}
-
-In addition to that, Katrin Kangur delivered a speech on the results of our research focused on exploring attitude of elderly care workers towards assistant robots in Estonia.
-
-{% include image_caption.html imageurl="images/2024-07-09-geriatronics-summit-2024/geriatronics-katrin.jpg" title="" caption="Katrin Kangur's presentation" %}
+Modern technologies and Scandinavian history, that's what the EdTech Estonia workshop is all about.\
+The pseudo-historic location [Viikingite küla](https://www.viikingitekyla.ee/en/) (Viking's village) was chosen as the venue. Since Janika Leoste was in Spain at the time of the seminar, she took part in it with the help of a telepresence robot; a method which became rather a commonplace than an exception in our team.
+The EdTech project is dedicated to the development of educational technologies in Estonia and Janika shared her thoughts on the possibilities of cooperation and financing of educational projects.
