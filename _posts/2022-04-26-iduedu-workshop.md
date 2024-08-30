@@ -4,7 +4,7 @@ title: "Workshop @ iduEDU"
 description: ""
 date: 2022-04-26
 feature_image: images/2022-04-26-iduedu/idedu-cover.jpg
-tags: [workshop, AIRE]
+tags: [workshop]
 ---
 
 [iduEDU](https://www.tallinn.ee/et/uudis/iduedu-2022-festival-onnelik-oppija-krihvli-voi-tahvliga-registreeri-kuni-1904) is an educational festival in [Tallinn Seconday School of Science](https://real.edu.ee/en/about/), where our group took part this year.
