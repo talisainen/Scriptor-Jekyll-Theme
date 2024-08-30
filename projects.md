@@ -4,6 +4,8 @@ title: Projects
 description: Projects "Creativity Matters" group leads or participates in
 ---
 
++ **AIRE** mingi projekt
+
 + **PYNT (Present Yet Not There)** -  creating an international community of both research institutions and end-users who are interested in developing and promoting different types of remote communication methods and in particular, robotics.
 
 + **EuroTEQ international course "Enhancing Social Interaction in Education and Business by using Telepresence Robots"** - the core idea of the course is to discover the capabilities of telepresence robotics (TPR) in enhancing social interaction and learn to deploy, configure and extend such robots. The course consists of six learning experience modules, 1 ECTS each: (1) video conferencing vs TPR; (2) social and ethical aspects of TPR; (3) TPR in collaborative learning; (4) teaching tele-presented students - opportunities and challenges; (5) the technical limitations of TPR; (6) how TPR technically work and how to modify them.\
