@@ -3,7 +3,7 @@ layout: post
 title: "Scientist's Night: Robot Rally and TEMI Assistant - Future Technologies at Your Fingertips"
 description: ""
 date: 2024-09-27
-feature_image: images/2024-09-27-sientist-night-2024/cover-scientist-night.jpg
+feature_image: images/2024-09-27-scientist-night-2024/cover-scientist-night.jpg
 tags: [workshop, meeting]
 ---
 Scientist's Night has always offered exciting activities for science and technology enthusiasts, but this year the spotlight was on the robot rally workshop, where participants had the chance to experience innovative solutions and challenges presented by controlling physical devices over the internet.
