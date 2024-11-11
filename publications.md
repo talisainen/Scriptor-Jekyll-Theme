@@ -5,6 +5,9 @@ description:
 ---
 
 ## 2024
++ [The Opinions of Basic School Students Regarding the Use of Telepresence Robots for Teaching and Learning] (https://link.springer.com/chapter/10.1007/978-3-031-67059-6_9), Robotics in Education.
+
++ [Securing Self-aware Cyber-physical Systems Using Digital Twins] (https://ieeexplore.ieee.org/document/10737954), IEEE Xplore.
 
 + [Understanding the Potential of Telepresence Robots in Higher Education Learning: A Case Study](https://link.springer.com/chapter/10.1007/978-3-031-53960-2_45), Advances in Information and Communication.
 
