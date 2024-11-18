@@ -5,7 +5,7 @@ description:
 ---
 
 ## 2024
-+ [Exploring Challenges in Remote Communication: Comparing Teleconferencing Software and Telepresence Robots Usage in Higher Education] (https://link.springer.com/chapter/10.1007/978-3-031-73122-8_18), Proceedings of the Future Technologies Conference (FTC) 2024, Volume 2. 
++ [Exploring Challenges in Remote Communication: Comparing Teleconferencing Software and Telepresence Robots Usage in Higher Education](https://link.springer.com/chapter/10.1007/978-3-031-73122-8_18), Proceedings of the Future Technologies Conference (FTC) 2024, Volume 2. 
 
 + [The Opinions of Basic School Students Regarding the Use of Telepresence Robots for Teaching and Learning](https://link.springer.com/chapter/10.1007/978-3-031-67059-6_9), Robotics in Education.
 
