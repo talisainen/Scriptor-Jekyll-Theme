@@ -71,6 +71,14 @@ Creativity Matters research group at Taltech IT College is a multidisciplinary t
             <td markdown="span">junior researcher</td>
         </tr>
         <tr>
+        <td markdown="span">[**Einar Kivisalu**](https://www.etis.ee/CV/Einar_Kivisalu/eng/)</td>
+            <td markdown="span">junior researcher</td>
+        </tr>
+        <tr>
+        <td markdown="span">[**Andres Käver**](https://www.etis.ee/CV/akaver/eng/)</td>
+            <td markdown="span">lector</td>
+        </tr>
+        <tr>
             <td markdown="span">[**Katrin Aasma**](https://taltech.ee/kontaktid/katrin-aasma)</td>
             <td markdown="span">IT College team assistant</td>
     </tbody>
