@@ -5,6 +5,9 @@ description:
 ---
 
 ## 2024
+
++ [A Critical Retelling of the Implementing of Telepresence Robots to Enhance Learners Collaboration: Through a Posthumanist New Materialist and Intersectionalist Lens](https://link.springer.com/chapter/10.1007/978-3-031-60713-4_8), Education, Development and Intervention.
+
 + [The Potential of Telepresence in Libraries: Students’ Perspectives](https://www.degruyter.com/document/doi/10.1515/libri-2023-0082/html), Libri volume 74 Issue 2.
 
 + [Exploring Challenges in Remote Communication: Comparing Teleconferencing Software and Telepresence Robots Usage in Higher Education](https://link.springer.com/chapter/10.1007/978-3-031-73122-8_18), Proceedings of the Future Technologies Conference (FTC) 2024, Volume 2. 
