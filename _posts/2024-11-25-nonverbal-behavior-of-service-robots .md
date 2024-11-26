@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "EdTech seminar participation"
+title: "Nonverbal Behavior of Service Robots in Social Interactions"
 description: ""
-date: 2024-08-15
+date: 2024-11-25
 feature_image: images/2024-11-25-nonverbal-behavior-of-service-robots/SEE_6118.jpg
 tags: [article,publishing]
 ---
@@ -12,9 +12,13 @@ tags: [article,publishing]
 👩💻 Authors: Janika Leoste, Kristel Marmor, Mati Heidmets
 
 Our study dives deep into the fascinating world of nonverbal communication in human-robot interactions (HRI), specifically focusing on socially capable service robots. Here's what we uncovered:
+
 ✅ Types of service robots studied in HRI research
+
 ✅ Key nonverbal cues in interactions between humans and robots
+
 ✅ Research objectives, participant profiles, and data collection methods
+
 ✅ Insights shaping trust, self-efficacy, and overcoming cultural differences in HRI
 
 🔍 Key Takeaways:
