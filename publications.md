@@ -5,6 +5,7 @@ description:
 ---
 
 ## 2024
++[Nonverbal Behavior of Service Robots in Social Interactions](https://ixdea.org/wp-content/uploads/IxDEA_art/61/61_6.pdf), Interaction Design and Architecture(s) Journal
 
 + [A Critical Retelling of the Implementing of Telepresence Robots to Enhance Learners Collaboration: Through a Posthumanist New Materialist and Intersectionalist Lens](https://link.springer.com/chapter/10.1007/978-3-031-60713-4_8), Education, Development and Intervention.
 
