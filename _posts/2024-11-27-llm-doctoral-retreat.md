@@ -18,15 +18,3 @@ everyone left the event with an improved Linkedin profile, and both panel discus
 Poster session covered a variety of different topics from network intrusion detection to theology.
 
 {% include image_caption.html imageurl="images/2024-11-27-llm-doctoral-retreat/llm-school-posters.jpg" %}
-
-
-
-
-
-
-
-
-
-
-
-{% include image_caption.html imageurl="images/2024-09-27-scientist-night-2024/robotrally.jpg" %}
