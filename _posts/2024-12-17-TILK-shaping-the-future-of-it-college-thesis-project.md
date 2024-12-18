@@ -2,7 +2,7 @@
 layout: post
 title: "TILK Project-Shaping the Future of IT College Thesis Projects Together"
 description: ""
-date: 2024-11-25
+date: 2024-12-17
 feature_image: images/2024-12-17-TILK-shaping-the-future-of-it-college-thesis-project/cover-tilk.jpg
 tags: [workshop,innovation,seminar,meeting]
 ---
