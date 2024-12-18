@@ -4,9 +4,9 @@ title: "TILK Project-Shaping the Future of IT College Thesis Projects Together"
 description: ""
 date: 2024-12-17
 feature_image: images/2024-12-17-TILK-shaping-the-future-of-it-college-thesis-project/cover-tilk.jpg
-tags: [workshop,innovation,seminar,meeting]
+tags: [workshop, innovation, seminar, meeting]
 ---
-On December 17, 2024, an inspiring brainstorming session took place at Voldemar Restaurant, bringing together IT College faculty members, students, and IT didactics research group to map out the challenges of the IT College thesis process and sketch out potential solutions.
+On December 17th, 2024 an inspiring brainstorming session took place at Voldemar Restaurant, bringing together IT College faculty members, students, and IT didactics research group to map out the challenges of the IT College thesis process and sketch out potential solutions.
 The seminar was organized as part of the **TILK (Scientific Innovative Approaches and Meetings)** project. Participants highlighted several key issues related to student preparation, supervision quality, and the thesis evaluation process.
 <!--more-->
 {% include image_caption.html imageurl="images/2024-12-17-Tilk2.jpg"Faculty members are mapping out the challenges and discussing the solutions" %}
