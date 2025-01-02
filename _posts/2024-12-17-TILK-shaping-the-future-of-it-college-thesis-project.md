@@ -9,7 +9,7 @@ tags: [workshop, innovation, seminar, meeting]
 On December 17th, 2024 an inspiring brainstorming session took place at Voldemar Restaurant, bringing together IT College faculty members, students, and IT didactics research group to map out the challenges of the IT College thesis process and sketch out potential solutions.
 The seminar was organized as part of the **TILK (Scientific Innovative Approaches and Meetings)** project. Participants highlighted several key issues related to student preparation, supervision quality, and the thesis evaluation process.
 <!--more-->
-{% include image_caption.html imageurl="images/2024-12-17-Tilk2.jpg "Faculty members are mapping out the challenges and discussing the solutions" %}
+{% include image_caption.html imageurl="images/2024-12-17-Tilk2.jpg" caption="Faculty members are mapping out the challenges and discussing the solutions" %}
 
 Key Focus Areas:
 •	Supporting students in the early stages of research.
@@ -19,7 +19,7 @@ Ideas were discussed on how to create a smoother and more structured supervision
 •	Clarity and objectivity in evaluation criteria.
 Suggestions were made to make the thesis assessment process more consistent and transparent.
 
-{% include image_caption.html imageurl="images/2024-12-17-Tilk3.jpg" caption="Research group is generating fresh ideas"%}
+{% include image_caption.html imageurl="images/2024-12-17-Tilk3.jpg" caption="Research group is generating fresh ideas" %}
 
 {% include image_caption.html imageurl="images/2024-12-17-Tilk6.jpg" caption="Project manager Janika Leoste and associate professor Tarmo Robal were the moderators of the event" %}
 
