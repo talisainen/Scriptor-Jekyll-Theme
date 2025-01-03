@@ -40,8 +40,8 @@ navigation:
     url: /projects/
   - text: Publications
     url: /publications/
-  - text: Contact us
-    url: /contact/
+  # - text: Contact us
+  #   url: /contact/
   - text: LinkedIn
     url: https://www.linkedin.com/groups/9857633/
 
