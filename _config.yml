@@ -42,8 +42,8 @@ navigation:
     url: /publications/
   - text: Contact us
     url: /contact/
-  # - text: Download
-    # url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+  - text: LinkedIn
+    url: https://www.linkedin.com/groups/9857633/
 
 # The shortname for your Disqus site to enable comments.
 # disqus: justgoodthemes
