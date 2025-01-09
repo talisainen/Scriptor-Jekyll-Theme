@@ -22,7 +22,6 @@ Our findings highlight the transformative potential of robot assistants to deliv
 •	Policy clarity
 •	Teacher training for effective integration
 
-This study opens up exciting pathways for future exploration in EdTech innovation. 🚀
 
 👉 Check out the paper here: [**A Systematic Literature Review on Applicability of Robot Assistants in Higher Education**](https://link.springer.com/chapter/10.1007/978-3-031-73538-7_3)
 
