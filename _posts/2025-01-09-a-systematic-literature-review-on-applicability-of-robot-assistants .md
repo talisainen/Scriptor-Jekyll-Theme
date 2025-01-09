@@ -13,13 +13,20 @@ We are thrilled to announce the publication of our latest research paper: "A Sys
 📚 Authors: Fuad Budagov, Janika Leoste, Mohammad Tariq Meeran & Tarmo Robal
 
 This systematic literature review, conducted using the Kitchenham approach, examines the period from January 2019 to February 2024, analyzing 30 key studies that showcase the potential of robots in:
+
 •	Supporting lectures
+
 •	Enhancing teaching practices
+
 •	Improving learning outcomes
 
+
 Our findings highlight the transformative potential of robot assistants to deliver personalized support and redefine learning experiences. However, for this potential to be realized, we must address:
+
 •	Technical limitations of robots
+
 •	Policy clarity
+
 •	Teacher training for effective integration
 
 
