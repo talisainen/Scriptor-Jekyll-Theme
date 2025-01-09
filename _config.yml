@@ -24,7 +24,7 @@ url: "https://scriptor-jekyll.netlify.com"
 favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
+google_analytics: "G-QCZ33N5MQS"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -40,10 +40,10 @@ navigation:
     url: /projects/
   - text: Publications
     url: /publications/
-  - text: Contact us
-    url: /contact/
-  # - text: Download
-    # url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+  # - text: Contact us
+  #   url: /contact/
+  - text: LinkedIn
+    url: https://www.linkedin.com/groups/9857633/
 
 # The shortname for your Disqus site to enable comments.
 # disqus: justgoodthemes
