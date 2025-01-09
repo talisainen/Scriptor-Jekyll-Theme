@@ -4,7 +4,7 @@ title: Publications
 description: 
 ---
 ## 2025
-+ [A Systematic Literature Review on Applicability of Robot Assistants in Higher Education](https://link.springer.com/chapter/10.1007/978-3-031-73538-7_3)Methodologies and Intelligent Systems for Technology Enhanced Learning, 14th International Conference
++ [A Systematic Literature Review on Applicability of Robot Assistants in Higher Education](https://link.springer.com/chapter/10.1007/978-3-031-73538-7_3), Methodologies and Intelligent Systems for Technology Enhanced Learning, 14th International Conference
 
 ## 2024
 + [Nonverbal Behavior of Service Robots in Social Interactions](https://ixdea.org/wp-content/uploads/IxDEA_art/61/61_6.pdf), Interaction Design and Architecture(s) Journal
