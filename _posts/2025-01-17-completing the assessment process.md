@@ -13,17 +13,17 @@ Your achievements reflect professionalism and inspire us all to tackle complex p
 Continue in the same spirit and strive for even greater scientific achievements ahead!
  
  
-{% include image_caption.html imageurl="images/2025-01-17-completing the assessment process/Tiina.jpg "%
-caption="Tiina Kasuk doctoral thesis on the topic Integrating Telepresence Robots into the Teaching and Learning Process."}
+{% include image_caption.html imageurl="images/2025-01-17-completing the assessment process/Tiina.jpg"
+caption="Tiina Kasuk doctoral thesis on the topic Integrating Telepresence Robots into the Teaching and Learning Process." %}
 
-{% include image_caption.html imageurl="images/2025-01-17-completing the assessment process/Tiit.jpg "%
-caption="Tiit Vapper doctoral thesis on the topic Integrating Socially Assistive Robots into Digital Ecosystem of Elderly Care."}
+{% include image_caption.html imageurl="images/2025-01-17-completing the assessment process/Tiit.jpg"
+caption="Tiit Vapper doctoral thesis on the topic Integrating Socially Assistive Robots into Digital Ecosystem of Elderly Care." %}
 
-{% include image_caption.html imageurl="images/2025-01-17-completing the assessment process/Palmi.jpg "%
-caption="Palmi Lahe doctoral thesis on the topic Challenges if Digital Competences for the Impelementation of Emerging Technologies in the Welfare Sector."}
+{% include image_caption.html imageurl="images/2025-01-17-completing the assessment process/Palmi.jpg"
+caption="Palmi Lahe doctoral thesis on the topic Challenges if Digital Competences for the Impelementation of Emerging Technologies in the Welfare Sector." %}
 
-{% include image_caption.html imageurl="images/2025-01-17-completing the assessment process/Kristel.jpg "%
-caption="Kristel Marmor doctoral thesis on the topic Guide Robot Adoption in Organizations: Users' Self-Efficacy and Integration into Organizational Workflows."}
+{% include image_caption.html imageurl="images/2025-01-17-completing the assessment process/Kristel.jpg"
+caption="Kristel Marmor doctoral thesis on the topic Guide Robot Adoption in Organizations: Users' Self-Efficacy and Integration into Organizational Workflows." %}
 
-{% include image_caption.html imageurl="images/2025-01-17-completing the assessment process/Aleksei.jpg "%
-caption="Aleksei Talisainen doctoral thesis on the topic Technical Aspects of Implementing Telepresence Robots in Higher Education."}
+{% include image_caption.html imageurl="images/2025-01-17-completing the assessment process/Aleksei.jpg"
+caption="Aleksei Talisainen doctoral thesis on the topic Technical Aspects of Implementing Telepresence Robots in Higher Education." %}
