@@ -11,6 +11,7 @@ tags: [article,publishing]
 We are thrilled to announce the publication of our latest research paper: "A Systematic Literature Review on Applicability of Robot Assistants in Higher Education".
 
 📚 Authors: Fuad Budagov, Janika Leoste, Mohammad Tariq Meeran & Tarmo Robal
+<!--more-->
 
 This systematic literature review, conducted using the Kitchenham approach, examines the period from January 2019 to February 2024, analyzing 30 key studies that showcase the potential of robots in:
 
