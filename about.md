@@ -43,7 +43,7 @@ Creativity Matters research group at Taltech IT College is a multidisciplinary t
             <td markdown="span">reseacher</td>
         </tr>
         <tr>
-        <td markdown="span">[**Mohammad Tariq Meeran**](https://www.etis.ee/CV/Mohammad%20Tariq_Meeran/eng/)</td>
+            <td markdown="span">[**Mohammad Tariq Meeran**](https://www.etis.ee/CV/Mohammad%20Tariq_Meeran/eng/)</td>
             <td markdown="span">researcher</td>
         </tr>
         <tr>
@@ -63,24 +63,25 @@ Creativity Matters research group at Taltech IT College is a multidisciplinary t
             <td markdown="span">junior researcher</td>
         </tr>
         <tr>
-        <td markdown="span">[**Palmi Lahe**](https://www.etis.ee/CV/Palmi_Lahe001/eng/)</td>
+            <td markdown="span">[**Palmi Lahe**](https://www.etis.ee/CV/Palmi_Lahe001/eng/)</td>
             <td markdown="span">junior researcher</td>
         </tr>
         <tr>
-        <td markdown="span">[**Tiit Vapper**](https://www.etis.ee/CV/Tiit_Vapper/eng/)</td>
+            <td markdown="span">[**Tiit Vapper**](https://www.etis.ee/CV/Tiit_Vapper/eng/)</td>
             <td markdown="span">junior researcher</td>
         </tr>
         <tr>
-        <td markdown="span">[**Einar Kivisalu**](https://www.etis.ee/CV/Einar_Kivisalu/eng/)</td>
+            <td markdown="span">[**Einar Kivisalu**](https://www.etis.ee/CV/Einar_Kivisalu/eng/)</td>
             <td markdown="span">junior researcher</td>
         </tr>
         <tr>
-        <td markdown="span">[**Andres Käver**](https://www.etis.ee/CV/akaver/eng/)</td>
+            <td markdown="span">[**Andres Käver**](https://www.etis.ee/CV/akaver/eng/)</td>
             <td markdown="span">lector</td>
         </tr>
         <tr>
             <td markdown="span">[**Katrin Aasma**](https://taltech.ee/kontaktid/katrin-aasma)</td>
             <td markdown="span">IT College team assistant</td>
+        </tr>
     </tbody>
 </table>
 
