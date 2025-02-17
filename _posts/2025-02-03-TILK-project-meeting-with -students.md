@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TILK project - meeting with our students 🎓💻"
+title: "TILK project - meeting with our students 🎓"
 description: ""
 date: 2025-02-03
 feature_image: images/2025-02-03-TILK-project-meeting-with-students/Cover.jpg
@@ -18,9 +18,7 @@ The event provided a valuable opportunity for students to discuss their interest
 
 {% include image_caption.html imageurl="images/2025-02-03-TILK-project-meeting-with-students/2.jpg" %}
 
-
 We look forward to seeing the innovative and impactful projects that will emerge from these collaborations. Stay tuned for more updates on the progress of the TILK project and the exciting developments in the IT Systems Administration and Development programs. 🚀📈
-
 
 {% include image_caption.html imageurl="images/2025-02-03-TILK-project-meeting-with-students/3.jpg" %}
 
