@@ -20,3 +20,13 @@ Link to the video: (https://youtu.be/)
 A big round of applause to all participants for their inspiring presentations! 👏🔍 
 
 {% include image_caption.html imageurl="images/2025-02-19-science-in-three-minutes/Tiina 2.jpg" title="" caption="Tiina Kasuk" %}
+
+{% include image_caption.html imageurl="images/2025-02-19-science-in-three-minutes/Palmi 1.jpg" title="" caption="Palmi Lahe" %}
+
+{% include image_caption.html imageurl="images/2025-02-19-science-in-three-minutes/Tiina 3.jpg" title="" caption="Tiina Kasuk" %}
+
+{% include image_caption.html imageurl="images/2025-02-19-science-in-three-minutes/Palmi 2.jpg" title="" caption="Palmi Lahe" %}
+
+{% include image_caption.html imageurl="images/2025-02-19-science-in-three-minutes/Tiina 4.jpg" title="" caption="Tiina Kasuk" %}
+
+{% include image_caption.html imageurl="images/2025-02-19-science-in-three-minutes/Palmi 3.jpg" title="" caption="Palmi Lahe" %}
