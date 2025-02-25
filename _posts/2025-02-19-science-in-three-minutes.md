@@ -13,7 +13,7 @@ We are proud to share that our young researchers Tiina Kasuk and Palmi Lahe took
 
 <!--more-->
 
-Link to the video: (https://youtu.be/)
+Link to the video:(https://youtu.be/)
 
 {% include youtubePlayer.html id="tlXlZYIEjCk"%}
 
