@@ -40,7 +40,7 @@ Creativity Matters research group at Taltech IT College is a multidisciplinary t
         </tr>
         <tr>
             <td markdown="span">[**Katrin Kangur**](https://www.etis.ee/CV/Katrin_Kangur/eng)</td>
-            <td markdown="span">reseacher</td>
+            <td markdown="span">researcher</td>
         </tr>
         <tr>
             <td markdown="span">[**Mohammad Tariq Meeran**](https://www.etis.ee/CV/Mohammad%20Tariq_Meeran/eng/)</td>
