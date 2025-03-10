@@ -11,11 +11,11 @@ Our research group recently participated in TalTech's Open Day, where we offered
 
 <!--more-->
 
-The event provided a valuable opportunity for students to discuss their interests and ideas with experienced professionals in the field. It also allowed supervisors to share their expertise and offer insights into potential research topics. By fostering these connections, we hope to create a collaborative environment that benefits both students and supervisors. 🌟🔗
+These tests were designed to provide participants with a quick and engaging insight into IT disciplines and help them understand which study program might suit them best. The testing activity proved to be highly popular, with groups of 2-5 people solving the tests at a time, accumulating nearly a hundred completions in total. In addition to the tests, participants had the chance to interact directly with members of our research group, who provided guidance and answered questions about the study programs and career opportunities.
 
 {% include image_caption.html imageurl="images/AUP4.jpg" %}
 
-We look forward to seeing the innovative and impactful projects that will emerge from these collaborations. Stay tuned for more updates on the progress of the TILK project and the exciting developments in the IT Systems Administration and Development programs. 🚀📈
+We are happy to assist future IT specialists in making informed decisions. Events like these are an excellent way to showcase the diversity of IT disciplines and inspire young people to explore the field of technology.
 
 {% include image_caption.html imageurl="images/AUP5.jpg" %}
 
