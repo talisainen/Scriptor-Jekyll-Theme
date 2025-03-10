@@ -7,9 +7,10 @@ feature_image: images/2025-02-26-TalTech_open_day/AUP_Janika.jpg
 tags: [workshop, meeting]
 ---
 Our research group recently participated in TalTech's Open Day, where we offered visitors the opportunity to test their interest and suitability for the IT field. To introduce the three bachelor's degree programs at the IT College, we used the TEMI robot, allowing students to complete multiple-choice tests.
-{% include image_caption.html imageurl="images/2025-02-26-TalTech_open_day/AUP3.jpg" %}
 
 <!--more-->
+
+{% include image_caption.html imageurl="images/2025-02-26-TalTech_open_day/AUP3.jpg" %}
 
 These tests were designed to provide participants with a quick and engaging insight into IT disciplines and help them understand which study program might suit them best. The testing activity proved to be highly popular, with groups of 2-5 people solving the tests at a time, accumulating nearly a hundred completions in total. In addition to the tests, participants had the chance to interact directly with members of our research group, who provided guidance and answered questions about the study programs and career opportunities.
 
