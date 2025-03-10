@@ -3,7 +3,7 @@ layout: post
 title: "We Have a Reason to Be Proud: Our Research Group Received Two Prestigious Awards🏆🎉"
 description: ""
 date: 2025-02-21
-feature_image: images/2025-02-21-we-have-a-reason-to-be-proud/AI_for_creativity_matters_250226_155645.jpg
+feature_image: images/2025-02-21-we-have-a-reason-to-be-proud/title-image.jpg
 tags: [article,publishing]
 ---
 We are thrilled to share some exciting news! Our research group has been honored with two prestigious awards from the university this year, recognizing our contributions to research and academic development. 🎓✨
