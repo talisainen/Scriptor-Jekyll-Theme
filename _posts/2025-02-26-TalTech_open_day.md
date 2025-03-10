@@ -3,7 +3,7 @@ layout: post
 title: "Our Research Group at TalTech Open Day"
 description: ""
 date: 2025-02-26
-feature_image: images/AUP_Janika.jpg.jpg
+feature_image: images/2025-02-26-TalTech_open_day/AUP_Janika.jpg
 tags: [workshop, meeting]
 ---
 Our research group recently participated in TalTech's Open Day, where we offered visitors the opportunity to test their interest and suitability for the IT field. To introduce the three bachelor's degree programs at the IT College, we used the TEMI robot, allowing students to complete multiple-choice tests.
