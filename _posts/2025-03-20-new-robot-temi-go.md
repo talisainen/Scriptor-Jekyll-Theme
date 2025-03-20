@@ -26,7 +26,7 @@ What makes Temi Go so special? Here are some of its key features:
 
 We believe this new addition will bring remarkable improvements to our work environment. Stay tuned for more updates as we put Temi Go to the test and explore its full potential!
 
-Have any questions or thoughts? Let us know in the comments!
+Have any questions or thoughts? Contact us!
 
 {% include image_caption.html imageurl="images/2025-03-20-new-robot-temi-go/go_2.jpg" %}
 
