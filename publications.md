@@ -6,7 +6,7 @@ description:
 ## 2025
 + [How Do You Ride an Elevator? Passenger In-Cabin Behavior Analysis on a Smart-Elevator Platform](https://link.springer.com/chapter/10.1007/978-3-031-75887-4_10), Smart Life and Smart Life Engineering
 
-+ [Design and Pilot Implementation of Telepresence Robots in Higher Education Courses], Futureproofing Engineering Education for Global Responsibility
++ [Design and Pilot Implementation of Telepresence Robots in Higher Education Courses](https://link.springer.com/chapter/10.1007/978-3-031-83520-9_25), Futureproofing Engineering Education for Global Responsibility
 
 + [A Systematic Literature Review on Applicability of Robot Assistants in Higher Education](https://link.springer.com/chapter/10.1007/978-3-031-73538-7_3), Methodologies and Intelligent Systems for Technology Enhanced Learning, 14th International Conference
 
