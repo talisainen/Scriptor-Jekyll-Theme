@@ -18,4 +18,3 @@ We look forward to continuing our collaboration with the Institute of Health Tec
 
 {% include image_caption.html imageurl="images/2025-04-02-visiting-institute-of-health-technologies/02.04.20251.jpg" %}
 {% include image_caption.html imageurl="images/2025-04-02-visiting-institute-of-health-technologies/02.04.20252.jpg" %}
-{% include image_caption.html imageurl="images/2025-04-02-visiting-institute-of-health-technologies/02.04.20253.jpg" %}
