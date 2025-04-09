@@ -4,6 +4,8 @@ title: Publications
 description: 
 ---
 ## 2025
++ [Integration of Artificial Intelligence in Higher Education Programming Courses: Insights from Student Perspectives and Practices](https://link.springer.com/chapter/10.1007/978-3-031-85652-5_42), Proceedings of the 27th International Conference on Interactive Collaborative Learning (ICL2024), Volume 1
+
 + [Design and Pilot Implementation of Telepresence Robots in Higher Education Courses](https://link.springer.com/chapter/10.1007/978-3-031-83520-9_25), Futureproofing Engineering Education for Global Responsibility
 
 + [Pedagogical Guidelines for Telepresence Robots Users: A Pilot](https://link.springer.com/chapter/10.1007/978-3-031-82915-4_11), Social Robots in Education
