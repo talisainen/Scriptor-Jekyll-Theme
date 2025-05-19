@@ -35,10 +35,6 @@ Creativity Matters research group at Taltech IT College is a multidisciplinary t
             <td markdown="span">associate professor</td>
         </tr>
         <tr>
-            <td markdown="span">[**Sirje Virkus**](https://www.etis.ee/CV/Sirje_Virkus/eng)</td>
-            <td markdown="span">professor of information science</td>
-        </tr>
-        <tr>
             <td markdown="span">[**Katrin Kangur**](https://www.etis.ee/CV/Katrin_Kangur/eng)</td>
             <td markdown="span">researcher</td>
         </tr>
@@ -64,10 +60,6 @@ Creativity Matters research group at Taltech IT College is a multidisciplinary t
         </tr>
         <tr>
             <td markdown="span">[**Palmi Lahe**](https://www.etis.ee/CV/Palmi_Lahe001/eng/)</td>
-            <td markdown="span">junior researcher</td>
-        </tr>
-        <tr>
-            <td markdown="span">[**Tiit Vapper**](https://www.etis.ee/CV/Tiit_Vapper/eng/)</td>
             <td markdown="span">junior researcher</td>
         </tr>
         <tr>
