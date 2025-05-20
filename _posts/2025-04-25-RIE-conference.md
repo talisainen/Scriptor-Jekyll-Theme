@@ -3,7 +3,7 @@ layout: post
 title: "RIE 2025 Conference in Thessaloniki 23-25.04.2025"
 description: ""
 date: 2025-04-25
-feature_image: images/2025-04-25-RIE-conference/RIE5.jpg
+feature_image: images/2025-04-25- RIE-coference/RIE5.jpg
 tags: [conference]
 ---
 We are excited to share that several of our members recently participated in the 16th International Conference on Robotics in Education (RIE 2025), which was held live in Thessaloniki, Greece.
