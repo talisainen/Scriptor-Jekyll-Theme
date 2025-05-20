@@ -4,6 +4,12 @@ title: Publications
 description: 
 ---
 ## 2025
++ [Usage Scenarios for Robot Assistants in Higher Education Settings], 16th International Conference on Robotics in Education
+
++ [Attendance Check of Students via Robot Assistant in Higher Education Classes](https://link.springer.com/chapter/10.1007/978-3-031-85652-5_31), Conference paper ICL 2024
+
++ [Pedagogical Design Aspects of an Introductory Workshop on Telepresence Robot Integration in Higher Education](https://link.springer.com/chapter/10.1007/978-3-031-83520-9_25), Conference paper ICL 2024
+
 + [Integration of Artificial Intelligence in Higher Education Programming Courses: Insights from Student Perspectives and Practices](https://link.springer.com/chapter/10.1007/978-3-031-85652-5_42), Proceedings of the 27th International Conference on Interactive Collaborative Learning (ICL2024), Volume 1
 
 + [Pedagogical Guidelines for Telepresence Robots Users: A Pilot](https://link.springer.com/chapter/10.1007/978-3-031-82915-4_11), Social Robots in Education
