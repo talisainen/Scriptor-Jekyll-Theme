@@ -3,7 +3,7 @@ layout: post
 title: "ESAK 2 pre-conference day open lab"
 description: ""
 date: 2025-05-08
-feature_image: images/2025-05-08-esak-pre-conference-day-open-lab/ESAK2.jpg
+feature_image: images/2025-05-08-esak-pre-conference-day-open-lab/ESAK 3.jpg
 tags: [lab, workshop]
 ---
 
