@@ -16,3 +16,5 @@ If you're interested in emerging trends in information and communication technol
 {% include image_caption.html imageurl="images/2025-04-28-FICC-conference/FICC1.jpg" %}
 
 {% include image_caption.html imageurl="images/2025-04-28-FICC-conference/FICC2.jpg" %}
+
+{% include youtubePlayer.html id="F11OXGiGRVk" %}
