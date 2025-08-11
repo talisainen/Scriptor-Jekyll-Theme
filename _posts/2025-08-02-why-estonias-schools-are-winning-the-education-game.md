@@ -32,5 +32,5 @@ As Janika Leoste put it, Estonia’s education system reflects national values r
 This insight appeared in La Vanguardia, a major Spanish newspaper, in the Society section on August 2, 2025, under the title “Janika Leoste: ‘In Estonia mobiles are not banned in class and teachers have great autonomy’” 
 
 
-👉 Check out the article here:(https://www.lavanguardia.com/vida/20250802/10912595/janika-leoste-estonia-moviles-prohiben-clase-maestros-gran-autonomia.html)
+👉 Check out the article here:(https://www.lavanguardia.com/vida/20250802/10912595/janika-leoste-estonia-moviles-prohiben-clase-maestros-gran-autonomia.html)[https://www.lavanguardia.com/vida/20250802/10912595/janika-leoste-estonia-moviles-prohiben-clase-maestros-gran-autonomia.html]
 
