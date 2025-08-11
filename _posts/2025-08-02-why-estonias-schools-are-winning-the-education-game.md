@@ -3,7 +3,7 @@ layout: post
 title: "Why Estonia’s Schools Are Winning the Education Game"
 description: ""
 date: 2025-08-02
-feature_image: images/2025-08-02-Bbarcelona-article/Barcelona artikkel.jpeg
+feature_image: images/2025-08-02-Barcelona-article/Barcelona artikkel.jpeg
 tags: [article,publishing,education,technology]
 ---
 When you think of global education leaders, places like Finland or Singapore often come to mind. But quietly and consistently, Estonia has been outshining many of its European neighbors—and even the world.
