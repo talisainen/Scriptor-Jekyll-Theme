@@ -4,6 +4,9 @@ title: Publications
 description: 
 ---
 ## 2025
+
++ [Evaluating Social Assistive Robots in Clinical Nursing Care: Mixed Method Pilot Study on Health Care Workers’ Perceptions and Adoption](https://www.scopus.com/pages/publications/105012966602), Scopus
+
 + [Pedagogical Design Aspects of an Introductory Workshop on Telepresence Robot Integration in Higher Education](https://link.springer.com/chapter/10.1007/978-3-031-83520-9_25), Futureproofing Engineering Education for Global Responsibility
 
 + [Integration of Artificial Intelligence in Higher Education Programming Courses: Insights from Student Perspectives and Practices](https://link.springer.com/chapter/10.1007/978-3-031-85652-5_42), Futureproofing Engineering Education for Global Responsibility
