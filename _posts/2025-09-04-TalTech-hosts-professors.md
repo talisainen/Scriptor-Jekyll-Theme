@@ -30,6 +30,7 @@ The exchange highlighted valuable knowledge sharing from Horizon Europe and Eras
 Additionally, the IT Didactics group presented two of its newest projects:
 
 •	DITEC – Erasmus+ project “Didactic Technologies for IT Education” (KA220-HED),
+
 •	HIAS – Hybrid Intelligent Assessment System for Inclusive and Ethical GenAI Use in Higher Education, funded by the Estonian Research Council.
 
 
