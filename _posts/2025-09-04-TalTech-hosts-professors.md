@@ -3,14 +3,18 @@ layout: post
 title: " TalTech Hosts Professors from Austria, Germany and Spain"
 description: ""
 date: 2025-09-04
-feature_image: 2025-09-04-hosting-professors/group.jpg
+feature_image: images/2025-09-04-hosting-professors/group.jpg
 tags: [technology, PhD student, meeting, seminar]
 ---
 On September 4th, the IT Didactics Research Group at the IT College of Tallinn University of Technology welcomed a delegation of professors from leading European universities.
 The visiting group included:
-•	Prof. Zsolt Lavicza and Dr. Filiz Mumcu from Johannes Kepler University Linz (Austria),
-•	Prof. Piedad Tolmos, Prof. Luis Pastor (Rey Juan Carlos University, Madrid), and Prof. José Francisco Ramos (Jaume I University, Valencia) from Spain,
-•	Dr. Cristina Popescu from University of Bielefeld (Germany).
+
+•	Prof. Zsolt Lavicza and Dr. Filiz Mumcu from Johannes Kepler University Linz (Austria)
+
+•	Prof. Piedad Tolmos, Prof. Luis Pastor (Rey Juan Carlos University, Madrid), and Prof. 
+José Francisco Ramos (Jaume I University, Valencia) from Spain,
+
+•	Dr. Cristina Popescu from University of Bielefeld (Germany)
 
 
 <!--more-->
