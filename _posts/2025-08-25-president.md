@@ -16,7 +16,7 @@ It was an incredibly proud and exciting moment for our research group to see our
 
 None of this would have been possible without the brilliant team who brought the robots to life: Kristel Marmor, Aleksei Talisainen, Katrin Aasma, Annika Raie, and Leo Benjamin Leoste.  You were the heartbeat inside the machines, making the robots more than just tech — you made them partners in the celebration.
 
-{% include image_caption.html imageurl="images/2025-08-25-president/team.jpg" %}
+{% include image_caption.html imageurl="images/2025-08-25-president/team1.jpg" %}
 
 We’re beyond grateful and inspired to keep pushing forward in human–robot collaboration, education technology, and research that makes a difference.
 
