@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " IT College Hosts Cyber Capacity-Building Fellowship Delegation from the Global South"
+title: "IT College Hosts Cyber Capacity-Building Fellowship Delegation from the Global South"
 description: ""
 date: 2025-09-11
 feature_image: images/2025-09-11-Cyber-capacity-building-fellowship-delegation/cover.jpg
@@ -17,7 +17,7 @@ The delegation was welcomed by the IT Didactics Research Group, led by **Prof. J
 
 <!--more-->
 
-{% include image_caption.html imageurl="images/2025-09-11-Cyber-capacity-building-fellowship-delegation/host" %}
+{% include image_caption.html imageurl="images/2025-09-11-Cyber-capacity-building-fellowship-delegation/host" %}"
 
 In addition, the program featured two guest presentations:
 
@@ -25,13 +25,13 @@ In addition, the program featured two guest presentations:
 
 •	“The Role of the Estonian Association of Information Technology and Telecommunications (ITL) in Building Public-Private Partnerships” by Keilin Tommeparg, Head of Policy and Legal Affairs at ITL.
 
-{% include image_caption.html imageurl="images/2025-09-11-Cyber-capacity-building-fellowship-delegation/speaker1 %}
+{% include image_caption.html imageurl="images/2025-09-11-Cyber-capacity-building-fellowship-delegation/speaker1 %}"
 
-{% include image_caption.html imageurl="images/2025-09-11-Cyber-capacity-building-fellowship-delegation/speaker2 %}
+{% include image_caption.html imageurl="images/2025-09-11-Cyber-capacity-building-fellowship-delegation/speaker2 %}"
 
 The event was made possible through the support of Mari Tomingas-Sibul and Meeli Semjonov from the e-Governance Academy, who invited IT College to host the delegation. The discussions provided an excellent platform to reflect on the new challenges and opportunities at the intersection of AI and cybersecurity, and to strengthen international cooperation in this critical domain.
 
-{% include image_caption.html imageurl="images/2025-09-11-Cyber-capacity-building-fellowship-delegation/speaker3 %}
+{% include image_caption.html imageurl="images/2025-09-11-Cyber-capacity-building-fellowship-delegation/speaker3 %}"
 
 
 
