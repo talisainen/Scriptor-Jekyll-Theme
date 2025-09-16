@@ -17,7 +17,7 @@ The delegation was welcomed by the IT Didactics Research Group, led by **Prof. J
 
 <!--more-->
 
-{% include image_caption.html imageurl="images/2025-09-11-Cyber-capacity-building-fellowship-delegation/host" %}"
+{% include image_caption.html imageurl="images/2025-09-11-Cyber-capacity-building-fellowship-delegation/host %}"
 
 In addition, the program featured two guest presentations:
 
