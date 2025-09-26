@@ -23,6 +23,10 @@ Creativity Matters research group at Taltech IT College is a multidisciplinary t
             <td markdown="span">Assistant Professor of IT Didactics, team lead</td>
         </tr>
         <tr>
+            <td markdown="span">[**Slavko Rakic**](https://www.etis.ee/CV/Slavko_Rakic/eng/)</td>
+            <td markdown="span">senior professor</td>
+        </tr>
+        <tr>
             <td markdown="span">[**Jaanus Pöial**](https://www.etis.ee/CV/Jaanus_P%C3%B6ial/eng)</td>
             <td markdown="span">associate professor</td>
         </tr>
