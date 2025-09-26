@@ -13,7 +13,7 @@ The delegation was welcomed by the IT Didactics Research Group, led by **Prof. J
 - The launch of the AI Championship Program at TalTech, designed to advance applied research and capacity-building in the field of AI.
 - The presentation of KOHTO25, a project led by Dr. Rakić, focused on hybrid intelligent assessment methods in higher education.
 
-<!-- more -->
+<!--more-->
 
 {% include image_caption.html imageurl="/images/2025-09-11-Cyber-capacity-building-fellowship-delegation/host.jpg" %}
 
