@@ -3,6 +3,39 @@ layout: page
 title: Projects
 description: Projects "Creativity Matters" group leads or participates in
 ---
+**KOHTO25 - Hybrid Intelligent Assessment System for Inclusive and Ethical GenAI Use in Higher Education** - The Hybrid Intelligent Assessment System for Inclusive and Ethical GenAI Use in Higher Education (HIAS) project seeks to transform higher education by developing, piloting, and validating a multilingual, module-based assessment system that integrates artificial intelligence in an inclusive, ethical, and pedagogically sound way. By aligning with Estonia’s AI Leap Initiative, the EU Digital Education Action Plan (2021–2027), and the DigComp 3.0 framework, HIAS aims to make assessment more transparent, student-centered, and future-ready. At its core, the project is designed to support self-regulated learning (SRL), enhance fairness and inclusivity in assessment, and create a scalable model that balances the strengths of human and AI co-agency. To achieve these objectives, HIAS actively engages educators, students, and policy actors in co-creation processes that include prototype development, international piloting, usability testing, and learning analytics evaluation. The project outcomes will include a digital assessment tool capable of supporting multilingual and modular use, alongside a governance framework that ensures full compliance with the EU AI Act and maintains strong pedagogical oversight. It will also deliver a comprehensive methodology for embedding SRL strategies, guided by the SOLO taxonomy and aligned with DigComp 3.0 proficiency levels, as well as open resources, guidelines, and policy recommendations that can be replicated across Europe. 
+
+Key Information
+
+•	Project acronym: HIAS
+•	Full title: Hybrid Intelligent Assessment System for Inclusive and Ethical GenAI Use in Higher Education
+•	Duration: 1 September 2025 – 31 August 2027
+•	Total budget: €152,000
+•	Coordinator: Tallinn University of Technology (TalTech)
+•	Project staff in TalTech: Slavko Rakic (PI), Janika Leoste, Voldemar Tomusk
+
+
+**DITEC – Didactic Technologies for IT Education** - The Didactic Technologies for IT Education (DITEC) project seeks to redefine IT education in Europe by developing and testing innovative didactic methodologies and technologies that make higher education more relevant, attractive, and future-proof for students, industry, and society. Its main objectives are to strengthen IT didactics, bridge the gap between academia, industry, and end-users, and pilot a new “Innovation in IT Education” course designed as a scalable and adaptable model across Europe. To achieve this, DITEC engages businesses, end-users, educators, and students in co-creation processes, using design sessions, industry roundtables, workshops, surveys, focus groups, and pilot courses to build a holistic model of IT education that is technically strong, socially relevant, and pedagogically innovative. The project will deliver a methodology for continuous collaboration between IT education providers and industry, micro-courses co-designed with stakeholders, a pilot blended-learning course tested in an international boot camp, as well as open-access resources, guidelines, and a replication toolkit for other institutions. These results will not only improve IT education within the consortium but also contribute to a wider European movement for modernizing IT didactics and addressing the continent’s IT skills shortage.
+
+Consortium
+
+•	Tallinn University of Technology (Estonia) – Coordinator
+•	Mainor AS (Estonia)
+•	University of Nicosia (Cyprus)
+•	ECECT – European Centre for Emerging Competencies and Technologies (Cyprus)
+•	Frankfurt University of Applied Sciences (Germany)
+•	PureSec GmbH (Germany)
+
+Key Information
+
+•	Project acronym: DITEC
+•	Full title: Didactic Technologies for IT Education
+•	Project code: 2025-1-EE01-KA220-HED-000360808
+•	Duration: 1 September 2025 – 31 August 2027
+•	Total budget: €400,000
+•	Funding: Erasmus+ Programme, European Union
+•	Project staff in TalTech: Janika Leoste (PI), Voldemar Tomusk, Kristel Marmor, Sirja Sulakatko, Slavko Rakic
+
 + **TILK (Scientific Innovative Approach and Meetings)** - is an educational development project aimed at improving the quality of education for IT College students. It offers a three-step approach to help students successfully reach their thesis writing. The project includes several seminars and the development of materials. 
 Program directors and research experts will work together to clarify the requirements for educational materials and teaching methods. They will develop both theoretical and practical guidelines to support students at every stage of their studies. Additionally, program directors and thesis supervisors will assess the quality of the materials created. New courses and supervision meetings will be piloted to gather feedback. Finally, the results of this pilot project will be analyzed, and there will be discussions about the potential introduction of a foundational research course in the spring semester of the second year.
 
