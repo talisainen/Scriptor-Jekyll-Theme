@@ -8,10 +8,15 @@ description: Projects "Creativity Matters" group leads or participates in
 Key Information
 
 •	Project acronym: HIAS
+
 •	Full title: Hybrid Intelligent Assessment System for Inclusive and Ethical GenAI Use in Higher Education
+
 •	Duration: 1 September 2025 – 31 August 2027
+
 •	Total budget: €152,000
+
 •	Coordinator: Tallinn University of Technology (TalTech)
+
 •	Project staff in TalTech: Slavko Rakic (PI), Janika Leoste, Voldemar Tomusk
 
 
@@ -20,20 +25,31 @@ Key Information
 Consortium
 
 •	Tallinn University of Technology (Estonia) – Coordinator
+
 •	Mainor AS (Estonia)
+
 •	University of Nicosia (Cyprus)
+
 •	ECECT – European Centre for Emerging Competencies and Technologies (Cyprus)
+
 •	Frankfurt University of Applied Sciences (Germany)
+
 •	PureSec GmbH (Germany)
 
 Key Information
 
 •	Project acronym: DITEC
+
 •	Full title: Didactic Technologies for IT Education
+
 •	Project code: 2025-1-EE01-KA220-HED-000360808
+
 •	Duration: 1 September 2025 – 31 August 2027
+
 •	Total budget: €400,000
+
 •	Funding: Erasmus+ Programme, European Union
+
 •	Project staff in TalTech: Janika Leoste (PI), Voldemar Tomusk, Kristel Marmor, Sirja Sulakatko, Slavko Rakic
 
 + **TILK (Scientific Innovative Approach and Meetings)** - is an educational development project aimed at improving the quality of education for IT College students. It offers a three-step approach to help students successfully reach their thesis writing. The project includes several seminars and the development of materials. 
