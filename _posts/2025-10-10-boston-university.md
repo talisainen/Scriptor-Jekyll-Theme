@@ -3,7 +3,7 @@ layout: post
 title: "Expanding Horizons of AI Didactics: IT Didactics Group Presents at TalTech and Boston University"
 description: ""
 date: 2025-10-10
-feature_image: images/2025-10-10-boston-university.jpg
+feature_image: images/2025-10-10-boston-university/cover.jpg
 tags: [meeting,seminar,technology]
 ---
 The past week has been a remarkable one for the IT Didactics Research Group at TalTech IT College, showcasing the impact and potential of our ongoing work in AI and Robotics Didactics. Through national and international presentations, the group demonstrated how creativity and interdisciplinary collaboration are shaping the future of digital education.
