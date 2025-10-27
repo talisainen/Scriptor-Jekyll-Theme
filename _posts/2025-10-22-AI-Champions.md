@@ -13,7 +13,7 @@ On 22 October, **Prof. Janika Leoste** led the workshop “Practical Examples of
 
 <!--more-->
 
-{% include image_caption.html imageurl="/images/2025-10-22-AI-Champions/cover.jpg" %}
+{% include image_caption.html imageurl="/images/2025-10-22-AI-Champions/cover.png" %}
 
 {% include image_caption.html imageurl="/images/2025-10-22-AI-Champions/workshop.jpg" %}
 
