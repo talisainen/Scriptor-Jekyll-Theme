@@ -11,6 +11,7 @@ This hackathon was designed as part of the ongoing **DITEC project**, aiming to 
 
 <!--more-->
 **A Hackathon Powered by Secondary Students’ Talent**
+
 Around 25 secondary-school students took part in the competition, working intensely to develop meaningful and innovative solutions. The winning team, **EcoQuest Ülemiste**, impressed the jury with their creativity, technical thinking, and social impact.
 Their final solution can be viewed here: [https://drive.google.com/file/d/1REb-XhcosHjrAhBdv_D4zQw99TD81e8h/view?usp=drivesdk](https://drive.google.com/file/d/1REb-XhcosHjrAhBdv_D4zQw99TD81e8h/view?usp=drivesdk)
 
@@ -24,7 +25,9 @@ The day after the hackathon, Prof. Leoste and Prof. Rakić visited **Palivere Sc
 During the visit, we also shared experiences from DigiEduHack and introduced several ongoing international projects, including:
 
 •	**DITEC – Didactic Technologies for IT Education**
+
 •	**HIAS – Hybrid Intelligent Assessment System**
+
 •	**Comparative Study of ICT Competencies and Labour Market Needs in Kenya, Nigeria, and Armenia**
 
 This outreach activity helped inspire students, showed them real examples of educational innovation, and sparked curiosity about how technology shapes the future of learning.
