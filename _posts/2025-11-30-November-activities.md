@@ -75,7 +75,7 @@ Our group made strong contributions through two conference papers:
 •	Prof. Jaanus Pöial
 Artificial Intelligence in Self-Regulated Learning: A Cross-National Pilot Study of Estonia and Serbia
 
-{% include image_caption.html imageurl="/images/2025-11-30-november-activities/ICERI 2.jpg" %}
+{% include image_caption.html imageurl="/images/2025-11-30-november-activities/ICERI2.jpg" %}
 
 •	Maarja-Liis Elland
 A Systematic Review of Socially Assistive Robots in Elderly Care: Integration, Benefits, and Challenges
@@ -106,7 +106,7 @@ The month of December begins with a new workshop focused on the implementation o
 
 **For conclusion — read more in INNOVATE™ Estonia**
 
-{% include image_caption.html imageurl="/images/2025-11-30-november-activities/Innovate Estonia.jpg" %}
+{% include image_caption.html imageurl="/images/2025-11-30-november-activities/Innovate Estonia.jpeg" %}
 
 For conclusion, we are proud to note that our IT Didactics Research Group is featured in the latest edition of **INNOVATE™ Estonia**, a publication that showcases pioneering Estonian innovation and digital transformation. 
 
