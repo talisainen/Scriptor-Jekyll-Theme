@@ -2,7 +2,7 @@
 layout: post
 title: "Quadruple Helix Impact: A Remarkably Active Month for the IT Didactics Research Group"
 description: ""
-date: 2025-11-14
+date: 2025-11-30
 feature_image: images/2025-11-30-november-activities/Main Photo.jpg
 tags: [technology, meeting, seminar, AI]
 ---
