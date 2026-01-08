@@ -5,7 +5,7 @@ description:
 ---
 ## 2025
 
-[A Systematic Scoping Review of Privacy Challenges and Privacy Enhancing Technologies in Teleoperated Robotics](https://ieeexplore.ieee.org/document/11303046/authors#authors), IEEE Access
++ [A Systematic Scoping Review of Privacy Challenges and Privacy Enhancing Technologies in Teleoperated Robotics](https://ieeexplore.ieee.org/document/11303046/authors#authors), IEEE Access
 
 + [Evaluating Social Assistive Robots in Clinical Nursing Care: Mixed Method Pilot Study on Health Care Workers’ Perceptions and Adoption](https://www.scopus.com/pages/publications/105012966602), Scopus
 
