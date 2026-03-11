@@ -112,7 +112,7 @@ For conclusion, we are proud to note that our IT Didactics Research Group is fea
 
 You can learn more about our contributions, as well as the broader Estonian innovation ecosystem, by exploring the book here: [https://innovationsoftheworld.com/ecosystems/innovate-estonia/](https://innovationsoftheworld.com/ecosystems/innovate-estonia/)
 
-We hope our ongoing work — from AI-supported teaching and assessment, to international cooperation and global capacity-building — continues to highlight Estonia’s role as a leader in educational innovation and research.
+We sincerely hope our ongoing work — from AI-supported teaching and assessment, to international cooperation and global capacity-building — continues to highlight Estonia’s role as a leader in educational innovation and research.
 
 
 
