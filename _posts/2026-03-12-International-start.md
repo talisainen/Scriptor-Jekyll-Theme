@@ -30,7 +30,7 @@ At the same time, our PhD student and early-stage researcher **Fuad Budagov** re
 In February, research activities related to the Gap Analysis project continued in Armenia.
 **Prof. Slavko Rakic** visited the American University of Armenia and several companies in Yerevan to explore the relationship between ICT education and industry needs in the region. These meetings contributed to gathering comparative insights that will support the development of recommendations for ICT education systems.
 
-{% include image_caption.html imageurl="/images/2026-03-12-international-start/Slavko Armenia.jpg" %}
+{% include image_caption.html imageurl="/images/2026-03-12-international-start/Slavko Armenia.jpeg" %}
 
 During the same month in Germany, **Prof. Janika Leoste and Dr. Voldemar Tomusk** participated in the **Successful R&I in Europe 2026 – 13th European Networking Event**, one of the largest networking events dedicated to Horizon Europe projects. The event provided valuable opportunities to expand international research networks and establish new collaborations for future research initiatives.
 
