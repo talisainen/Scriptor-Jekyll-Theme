@@ -8,8 +8,8 @@ tags: [technology, meeting, seminar, AI]
 ---
 The beginning of 2026 has been highly dynamic and internationally oriented for the IT Didactics Research Group at the IT College, Tallinn University of Technology. The first months of the year brought multiple research visits, conference participation, project activities, and proposal submissions across several continents.
 
-
 <!--more-->
+
 **Research Activities Across Africa and Asia**
 
 January started with international research engagement in both Africa and Asia.
@@ -28,89 +28,46 @@ At the same time, our PhD student and early-stage researcher **Fuad Budagov** re
 
 
 In February, research activities related to the Gap Analysis project continued in Armenia.
-Prof. Slavko Rakic visited the American University of Armenia and several companies in Yerevan to explore the relationship between ICT education and industry needs in the region. These meetings contributed to gathering comparative insights that will support the development of recommendations for ICT education systems.
+**Prof. Slavko Rakic** visited the American University of Armenia and several companies in Yerevan to explore the relationship between ICT education and industry needs in the region. These meetings contributed to gathering comparative insights that will support the development of recommendations for ICT education systems.
 
 {% include image_caption.html imageurl="/images/2026-03-12-international-start/Slavko Armenia.jpg" %}
 
-During the same month in Germany, Prof. Janika Leoste and Dr. Voldemar Tomusk participated in the Successful R&I in Europe 2026 – 13th European Networking Event, one of the largest networking events dedicated to Horizon Europe projects. The event provided valuable opportunities to expand international research networks and establish new collaborations for future research initiatives.
+During the same month in Germany, **Prof. Janika Leoste and Dr. Voldemar Tomusk** participated in the **Successful R&I in Europe 2026 – 13th European Networking Event**, one of the largest networking events dedicated to Horizon Europe projects. The event provided valuable opportunities to expand international research networks and establish new collaborations for future research initiatives.
 
-{% include image_caption.html imageurl="/images/2026-03-12-international-start/Slavko Armenia.jpg" %}
+{% include image_caption.html imageurl="/images/2026-03-12-international-start/Janika and Voldemar Germany.jpg" %}
 
-**Academia–Industry Collaboration: DITEC Project Roundtable**
+**Recognition for Research Excellence**
 
-Within the framework of the ongoing Erasmus+ DITEC project, a high-level roundtable between academia and industry was organized by:
+The beginning of the year also brought recognition for the research group. During the Gala Event of the School of Information Technologies, a paper authored by **Prof. Janika Leoste, Kristel Marmor, Katrin Kangur, and Prof. Kadi Lubi** was selected as one of the best papers of 2025 at the school level. This recognition highlights the strong research contribution of the group in the field of educational technologies and digital innovation.
 
-•	Kristel Marmor
 
-•	Voldemar Tomusk
+**New Project Activities and Deliverables**
 
-•	Janika Leoste
+{% include image_caption.html imageurl="/images/2026-03-12-international-start/Kristel and Slavko Greece" %}
 
-•	Slavko Rakić
+March started with international collaboration in **Athens, Greece, where Prof. Slavko Rakic and Kristel Marmor** participated in the **kick-off meeting of the CHILD-AI project (Children's Holistic Initiatives for Literacy and Digital-AI Inclusion)**. The project focuses on improving AI literacy and digital inclusion among children through research-based educational tools and teacher training.
 
-The roundtable resulted in the creation of seven company case studies, which will be integrated into our curriculum to bridge the skills gap and better prepare students for modern IT roles.
+At the same time, the **DITEC project (Didactic Technologies for IT Education)** released two new project deliverables, which are now publicly available on the project website: [https://ditec.taltech.ee/deliverables/](https://ditec.taltech.ee/deliverables/)
 
-{% include image_caption.html imageurl="/images/2025-11-30-november-activities/DITEC.jpg" %}
 
-**New International Development Project: ESTDEV Gap Analysis for Kenya, Nigeria, and Armenia**
+**Strong Start in Research Funding Applications**
 
-{% include image_caption.html imageurl="/images/2025-11-30-november-activities/Kenya.jpg" %}
+Alongside research and networking activities, the research group has been highly active in preparing new project proposals. Since the beginning of 2026, the team has submitted:
 
-A new project funded by the Estonian Centre for International Development (ESTDEV) was officially launched this month: “Gap Analysis of Kenyan ICT Higher Education and Labour Market Needs with Comparative Reflections on Nigeria and Armenia.”
+•	13 Erasmus+ proposals
 
-The project aims to analyse digital and ICT competency gaps between university curricula and labour market demands in emerging economies.
+•	2 Digital Europe proposals
 
-As part of the project’s initiation phase, Voldemar Tomusk visited several universities in Kenya to begin the skill-gap assessment and establish collaboration with academic and industry stakeholders. This marks an important expansion of our research group’s global development footprint and reinforces Estonia’s role in supporting digital capacity building worldwide.
+•	2 ESTDEV proposals
 
-**Scientific Impact: International Conference Contributions**
+•	2 Horizon Europe proposals
 
-18th International Conference of Education, Research and Innovation (Seville)
-Our group made strong contributions through two conference papers:
+The research group is now awaiting the evaluation results of these submissions while continuing the implementation of ongoing projects and research activities.
 
-{% include image_caption.html imageurl="/images/2025-11-30-november-activities/ICERI 1.jpg" %}
 
-•	Prof. Jaanus Pöial
-Artificial Intelligence in Self-Regulated Learning: A Cross-National Pilot Study of Estonia and Serbia
+**Looking Ahead**
 
-{% include image_caption.html imageurl="/images/2025-11-30-november-activities/ICERI2.jpg" %}
-
-•	Maarja-Liis Elland
-A Systematic Review of Socially Assistive Robots in Elderly Care: Integration, Benefits, and Challenges
-2nd International Conference on Trends and Challenges in Digital Education 
-
-{% include image_caption.html imageurl="/images/2025-11-30-november-activities/DETC.jpg" %}
-
-At the 2nd DETC conference, Prof. Slavko Rakić presented two papers:
-
-•	Hybrid Intelligent Assessment: Building Inclusive and Ethical Learning with AI
-
-•	Reimagining IT Education Through AI and Design Thinking: Bridging Digital and Human Skills in Higher Education
-
-**Research & Society: Future of Ageing Seminar**
-
-{% include image_caption.html imageurl="/images/2025-11-30-november-activities/Future of Ageing Seminar.jpg" %}
-
-Our researchers—**Prof. Leoste, Prof. Rakić, and Joosep Parts**—presented at the seminar:
-
-“Digital Routines, Creative Practices – Eyes on the Future of Ageing”
-hosted by the University of Jyväskylä.
-
-Their discussions explored how AI-supported learning environments can enhance inclusion, wellbeing, and digital participation among older adults.
-
-**Looking Ahead: December Workshop and ChatGPT EDU Rollout**
-
-The month of December begins with a new workshop focused on the implementation of AI in teaching and learning. Additionally, all TalTech professors and lecturers have now received access to the paid ChatGPT EDU version, enabling more advanced, responsible, and pedagogically grounded use of AI across university courses.
-
-**For conclusion — read more in INNOVATE™ Estonia**
-
-{% include image_caption.html imageurl="/images/2025-11-30-november-activities/Innovate Estonia.jpeg" %}
-
-For conclusion, we are proud to note that our IT Didactics Research Group is featured in the latest edition of **INNOVATE™ Estonia**, a publication that showcases pioneering Estonian innovation and digital transformation. 
-
-You can learn more about our contributions, as well as the broader Estonian innovation ecosystem, by exploring the book here: [https://innovationsoftheworld.com/ecosystems/innovate-estonia/](https://innovationsoftheworld.com/ecosystems/innovate-estonia/)
-
-We sincerely hope our ongoing work — from AI-supported teaching and assessment, to international cooperation and global capacity-building — continues to highlight Estonia’s role as a leader in educational innovation and research.
-
+The strong international start of 2026 demonstrates the growing global engagement of the IT Didactics Research Group. With research activities spanning **Europe, Africa, and Asia**, new collaborations forming, and numerous project proposals submitted, the coming months promise continued progress in advancing research on digital education, IT didactics, and technology-enhanced learning.
 
 
 
