@@ -43,7 +43,7 @@ The beginning of the year also brought recognition for the research group. Durin
 
 **New Project Activities and Deliverables**
 
-{% include image_caption.html imageurl="/images/2026-03-12-international-start/Kristel and Slavko Greece" %}
+{% include image_caption.html imageurl="/images/2026-03-12-international-start/Kristel and Slavko Greece.jpg" %}
 
 March started with international collaboration in **Athens, Greece, where Prof. Slavko Rakic and Kristel Marmor** participated in the **kick-off meeting of the CHILD-AI project (Children's Holistic Initiatives for Literacy and Digital-AI Inclusion)**. The project focuses on improving AI literacy and digital inclusion among children through research-based educational tools and teacher training.
 
