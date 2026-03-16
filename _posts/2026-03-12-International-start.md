@@ -64,6 +64,15 @@ Alongside research and networking activities, the research group has been highly
 
 The research group is now awaiting the evaluation results of these submissions while continuing the implementation of ongoing projects and research activities.
 
+**Hosting Professor Christine Gustafsson from Sophiahemmet University**
+
+{% include image_caption.html imageurl="/images/2026-03-12-international-start/Palmi juhendaja.jpg" %}
+
+On 19–20 February 2026, TalTech had the pleasure of hosting **Professor Christine Gustafsson from Sophiahemmet University (Stockholm, Sweden)**, whose research focuses on health and welfare technology and user-centered digital health solutions. Her visit focused on strengthening academic collaboration, supporting doctoral research, and exchanging knowledge in digital health and educational technology.
+
+The visit began with a welcome and overview of TalTech and the IT College, followed by a doctoral supervision meeting with Christine, Palmi, and Tarmo to review current research progress and discuss ongoing challenges.
+
+Later, Professor Gustafsson met with the IT Didactics Research Group, led by Prof. Leoste. The group presented their research activities and current projects, after which Professor Gustafsson delivered a short presentation titled “Health and Welfare Technology from a User-Centered Perspective,” sharing insights from her research.
 
 **Looking Ahead**
 
