@@ -2,12 +2,14 @@
  * Main JS file for Scriptor behaviours
  */
 
-// Responsive video embeds
+// Responsive video embeds handled via CSS aspect-ratio
+/*
 let videoEmbeds = [
   'iframe[src*="youtube.com"]',
   'iframe[src*="vimeo.com"]'
 ];
 reframe(videoEmbeds.join(','));
+*/
 
 // Menu on small screens
 let menuToggle = document.querySelectorAll('.menu-toggle');
