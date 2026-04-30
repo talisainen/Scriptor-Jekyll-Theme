@@ -4,7 +4,7 @@ title: " Celebrating Our Doctoral Students: Successful Attestation Completed!"
 description: ""
 date: 2025-06-19
 feature_image: images/2025-06-19-atestation/cover.jpg
-tags: [technology, students, attestation]
+tags: [technology, students]
 ---
 The annual attestation is a key milestone in every doctoral student’s journey. It provides an opportunity to reflect on academic progress, receive valuable feedback, and define clear next steps. We extend our heartfelt congratulations to all doctoral students who participated this year – and special recognition to those who successfully passed the evaluation!
 

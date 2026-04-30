@@ -4,7 +4,7 @@ title: "ESAK 2 pre-conference day open lab"
 description: ""
 date: 2025-05-08
 feature_image: images/2025-05-08-esak-pre-conference-day-open-lab/ESAK 3.jpg
-tags: [lab, event]
+tags: [event]
 ---
 
 On May 8-th we opened the doors of our research group for an Open Lab event, held as part of the ESAK 2 pre-conference day: Human in the Age of Technological Upheavals.
