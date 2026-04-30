@@ -4,7 +4,7 @@ title: "Temi goes to summer school"
 description: ""
 date: 2023-08-22
 feature_image: images/2023-08-22-temi-goes-to-summer-school/kohvitass.jpg
-tags: [workshop, conference]
+tags: [event, conference]
 ---
 
 Summer School for Educational Technologies is an annual event dedicated to modern technologies in teaching and this year (with our assistance) Temi decided to participate. About 100 teachers and educational technologists had a chance to familiarize themselves with Temi capabilities and discuss the possible applications in teaching/learning process.\

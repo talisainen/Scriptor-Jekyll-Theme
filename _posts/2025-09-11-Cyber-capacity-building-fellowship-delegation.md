@@ -4,7 +4,7 @@ title: "IT College Hosts Cyber Capacity-Building Fellowship Delegation from the 
 description: ""
 date: 2025-09-11
 feature_image: images/2025-09-11-Cyber-capacity-building-fellowship-delegation/cover.jpg
-tags: [technology, meeting, seminar]
+tags: [technology, event]
 ---
 The Fellowship is an international initiative designed to empower cybersecurity experts from the Global South by strengthening their practical knowledge, policy skills, and global networking opportunities. The visit to TalTech provided participants with first-hand insights into Estonia’s innovative approaches to cybersecurity and digital education.
 

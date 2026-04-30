@@ -4,7 +4,7 @@ title: "We Have a Reason to Be Proud: Our Research Group Received Two Prestigiou
 description: ""
 date: 2025-02-21
 feature_image: images/2025-02-21-we-have-a-reason-to-be-proud/title-image.jpg
-tags: [article,publishing]
+tags: [publication]
 ---
 We are thrilled to share some exciting news! Our research group has been honored with two prestigious awards from the university this year, recognizing our contributions to research and academic development. 🎓
 

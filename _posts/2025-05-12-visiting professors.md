@@ -4,7 +4,7 @@ title: "The visit of Prof. Ugljesa Marjanovic and Prof. Slavko Rakic from the Un
 description: ""
 date: 2025-05-12
 feature_image: images/2025-05-12-visiting-professors/workshop10.jpg
-tags: [innovation, technology, PhD student, partnership, workshop]
+tags: [innovation, technology, PhD student, partnership, event]
 ---
 Last week we had the pleasure of hosting guest professors Uglješa Marianovich and Slavko Rakic from the University of Novi Sad, Serbia. Their visit brought valuable insights and inspiration to both our staff and students.
 

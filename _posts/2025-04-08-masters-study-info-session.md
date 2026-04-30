@@ -4,7 +4,7 @@ title: "Master´s Study Info Session!"
 description: ""
 date: 2025-04-08
 feature_image: images/2025-04-08-masters-study-night/cover-infoõhtu.jpg
-tags: [innovation, technology, meeting, study]
+tags: [innovation, technology, event, study]
 ---
 Yesterday, our research group had the pleasure of participating in the TalTech Master's Info Session – an event aimed at introducing prospective students to the university’s master's programmes, research opportunities, and academic environment. We were excited to share our ongoing work while hopefully inspiring future students to join our field.
 

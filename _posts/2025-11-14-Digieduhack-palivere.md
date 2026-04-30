@@ -4,7 +4,7 @@ title: "IT Didactics Empowers the Next Generation: DigiEduHack Hackathon & Schoo
 description: ""
 date: 2025-11-14
 feature_image: images/2025-11-14-digieduhack-palivere/Cover.jpg
-tags: [technology, meeting, seminar, AI]
+tags: [technology, event, AI]
 ---
 IT Didactics recently organized a youth-focused hackathon under the European Commission’s **DigiEduHack initiative**, bringing together creativity, innovation, and future-ready digital skills. The event was co-organized by **Prof. Janika Leoste** and **Prof. Slavko Rakić** from the IT Didactics Research Group at TalTech IT College, in collaboration with **Ülemiste City** and the **International School of Tallinn**.
 This hackathon was designed as part of the ongoing **DITEC project**, aiming to support upskilling of students and fostering digital competences that the future workforce will need. By engaging with the community, we are expanding the impact of our research and strengthening the bridge between schools, universities, and the labor market.

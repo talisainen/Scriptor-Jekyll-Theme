@@ -4,7 +4,7 @@ title: "TILK project - meeting with our students 🎓"
 description: ""
 date: 2025-02-03
 feature_image: images/2025-02-03-TILK-project-meeting-with-students/Cover.jpg
-tags: [workshop, meeting]
+tags: [event]
 ---
 On Monday, February 3rd, we had the pleasure of meeting with students from the IT Systems Administration and IT Systems Development programs. The purpose of this gathering was to connect these talented students with potential supervisors and topics for their final theses. 🤝📚
 

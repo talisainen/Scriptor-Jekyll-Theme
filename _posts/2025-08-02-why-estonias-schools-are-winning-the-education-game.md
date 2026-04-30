@@ -4,7 +4,7 @@ title: "Why Estonia’s Schools Are Winning the Education Game"
 description: ""
 date: 2025-08-02
 feature_image: images/2025-08-02-Barcelona-article/Barcelona artikkel.jpeg
-tags: [article,publishing,education,technology]
+tags: [publication, education, technology]
 ---
 When you think of global education leaders, places like Finland or Singapore often come to mind. But quietly and consistently, Estonia has been outshining many of its European neighbors—and even the world.
 Janika Leoste—Assistant Professor of IT Didactics at Tallinn University of Technology, and head of the IT Didactics research group—recently shared insights into what makes Estonia’s educational success so effective. And spoiler: it’s not about banning smartphones or endless testing.

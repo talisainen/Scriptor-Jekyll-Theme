@@ -4,7 +4,7 @@ title: "Meeting colleagues from LMU Munich"
 description: ""
 date: 2024-07-12
 feature_image: images/2024-07-12-LMU-munchen/cover-munich.jpg
-tags: [conference, meeting]
+tags: [conference, event]
 ---
 
 What would a robotic arm in the middle of a kitchen remind you of? Joi from "Blade Runner 2049"? "There Will Come Soft Rains" cartoon? No, it's a robotics lab in Ludwig-Maximilians-Universität München.

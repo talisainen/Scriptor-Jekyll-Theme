@@ -4,7 +4,7 @@ title: "Nonverbal Behavior of Service Robots in Social Interactions"
 description: ""
 date: 2024-11-25
 feature_image: images/2024-11-25-nonverbal-behavior-of-service-robots/SEE_6118.jpg
-tags: [article,publishing]
+tags: [publication]
 ---
 🚀 Just Published! 📖
 

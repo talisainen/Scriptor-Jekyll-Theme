@@ -4,7 +4,7 @@ title: "Robot introduction in Viljandi hospital"
 description: ""
 date: 2023-09-01
 feature_image: images/2023-09-01-visit-to-viljandi/cover-image-viljandi.jpg
-tags: [partnership, meeting]
+tags: [partnership, event]
 ---
 
 The town of [Viljandi](https://en.wikipedia.org/wiki/Viljandi) in not among those you ever heard of, unless you are from Estonia yourself, however Viljandi hospital is one of the biggest in the country as it provides its service to a substantial part of it.

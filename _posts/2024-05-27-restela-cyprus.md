@@ -4,7 +4,7 @@ title: "ReSTELA project meeting on Cyprus"
 description: ""
 date: 2024-05-27
 feature_image: images/2024-05-27-restela-cyprus/cover-restela-cyprus.jpg
-tags: [partnership, meeting]
+tags: [partnership, event]
 ---
 
 ReSTELA project is coming to an end and our partners arranged a meeting to discuss the final arrangements of this undertaking aimed to provide robotics education to rural areas and places, where no robots labs are available. Remote presence is an important factor in arranging such labs and telepresence robots offer an ideal solution.\

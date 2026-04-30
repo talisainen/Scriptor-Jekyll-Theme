@@ -4,7 +4,7 @@ title: "Geriatronics Summit 2024"
 description: ""
 date: 2024-07-09
 feature_image: images/2024-07-09-geriatronics-summit-2024/cover-stretch.jpg
-tags: [conference, meeting]
+tags: [conference, event]
 ---
 
 This year annual geriatronics summit took place in the most picturesque location one can imagine - in [Garmisch-Partenkirchen](images/2024-07-09-geriatronics-summit-2024/garmish.jpg).

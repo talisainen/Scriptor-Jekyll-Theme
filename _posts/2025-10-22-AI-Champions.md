@@ -4,7 +4,7 @@ title: "AI Championship Workshops and New Global Impact in Africa and Asia"
 description: ""
 date: 2025-10-22
 feature_image: images/2025-10-22-AI-Champions/slavko.jpg
-tags: [technology, meeting, seminar, AI]
+tags: [technology, event, AI]
 ---
 Last week was exceptionally productive for the IT Didactics Research Group at TalTech IT College, marking new milestones in both teaching innovation and international collaboration.
 

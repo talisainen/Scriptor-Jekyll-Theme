@@ -4,7 +4,7 @@ title: "ReSTELA project meeting in Genova"
 description: ""
 date: 2024-02-12
 feature_image: images/2024-02-12-restela-genova/genova-cover.jpg
-tags: [ReSTELA, meeting]
+tags: [ReSTELA, event]
 ---
 
 Can you imagine your office or a lab located in a 16-th century palace? The employees of [Scuola di Robotica](https://www.scuoladirobotica.it/en/home-eng/) do not have to imagine that, because it is exactly the place their school is located, right in the medieval centre of Genova.

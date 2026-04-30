@@ -4,7 +4,7 @@ title: "Meeting German <del>robots</del> friends"
 description: ""
 date: 2023-11-21
 feature_image: images/2023-11-21-frankfurt-applied-science-meeting/frankfurt-cover.jpg
-tags: [meeting, partnership]
+tags: [event, partnership]
 ---
 This week Aleksei Talisainen from our research group visited [Frankfurt School of Applied Science](https://www.frankfurt-university.de/en/) to meet our colleagues, who use Temi robots to counduct research on a topic that is becoming increasingly important - elderly care. It appears that semi-autonomous assistant robots can take on a significant part of the workload that is currently carried by the protein-based operators (that's us).
 

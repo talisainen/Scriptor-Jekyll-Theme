@@ -4,7 +4,7 @@ title: " TalTech Hosts Professors from Austria, Germany and Spain"
 description: ""
 date: 2025-09-04
 feature_image: images/2025-09-04-hosting-professors/group.jpg
-tags: [technology, PhD student, meeting, seminar]
+tags: [technology, PhD student, event]
 ---
 On September 4th, the IT Didactics Research Group at the IT College of Tallinn University of Technology welcomed a delegation of professors from leading European universities.
 The visiting group included:

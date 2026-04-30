@@ -4,7 +4,7 @@ title: "Quadruple Helix Impact: A Remarkably Active Month for the IT Didactics R
 description: ""
 date: 2025-11-30
 feature_image: images/2025-11-30-november-activities/Main Photo.jpg
-tags: [technology, meeting, seminar, AI]
+tags: [technology, event, AI]
 ---
 Over the past month, the IT Didactics Research Group has demonstrated an exceptional level of activity, impact, and visibility across all dimensions of the Quadruple Helix—academia, industry, policy makers, and society. Our team engaged in major international conferences, strategic roundtables, policy dialogues, international development projects, and research-focused seminars, while also contributing to the development of next-generation AI-supported teaching and assessment practices. Below is a consolidated overview of our key achievements.
 

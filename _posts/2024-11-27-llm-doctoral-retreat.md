@@ -4,7 +4,7 @@ title: "PhD students LLM retreat"
 description: ""
 date: 2024-11-27
 feature_image: images/2024-11-27-llm-doctoral-retreat/cover-llm-school.jpg
-tags: [workshop, meeting]
+tags: [event]
 ---
 An event cosily named "LLM retreat for doctoral students and their supervisors" or more of a winter school (because what kind of retreat can you expect with supervisors next to you) was dedicated to large language models and their use in research and gather students from three major universities of Estonia: Tallinn University of Technology, Tartu University and Tallinn University.\
 The event offered both opportunities and challenges. The students were not only given a half-hour "Flash Presentation training", but also required to make a flash presentation next morning. 

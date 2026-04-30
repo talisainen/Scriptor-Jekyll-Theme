@@ -4,7 +4,7 @@ title: "A Systematic Literature Review on Applicability of Robot Assistants in H
 description: ""
 date: 2025-01-09
 feature_image:
-tags: [article,publishing]
+tags: [publication]
 ---
 🚀 Exciting News! 🚀
 

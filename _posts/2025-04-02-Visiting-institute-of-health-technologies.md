@@ -4,7 +4,7 @@ title: "Visiting Institute of Health Technologies"
 description: ""
 date: 2025-04-02
 feature_image: images/2025-04-02-visiting-institute-of-health-technologies/cover.jpg
-tags: [workshop, meeting, experiment, innovation, partnership]
+tags: [event, experiment, innovation, partnership]
 ---
 Today, our research group had the opportunity to visit the Institute of Health Technologies, where Janika Loeste presented our findings on the use of telepresence robots. This visit was a fantastic chance to share our knowledge and discuss the potential applications of this technology in education, healthcare and beyond.
 

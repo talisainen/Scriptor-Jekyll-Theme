@@ -4,7 +4,7 @@ title: "International Start of 2026 for the IT Didactics Research Group"
 description: ""
 date: 2026-03-12
 feature_image: images/2026-03-12-international-start/Gala.jpg
-tags: [technology, meeting, seminar, AI]
+tags: [technology, event, AI]
 ---
 The beginning of 2026 has been highly dynamic and internationally oriented for the IT Didactics Research Group at the IT College, Tallinn University of Technology. The first months of the year brought multiple research visits, conference participation, project activities, and proposal submissions across several continents.
 

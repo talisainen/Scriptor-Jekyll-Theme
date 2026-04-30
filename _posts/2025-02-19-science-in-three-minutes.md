@@ -4,7 +4,7 @@ title: "Science In Three Minutes"
 description: ""
 date: 2025-02-19
 feature_image: images/2025-02-19-science-in-three-minutes/Tiina 1.jpg
-tags: [conference, meeting]
+tags: [conference, event]
 ---
 
 **Our PhD Students Shine in the "Science in Three Minutes" Finals!** 🎤🔬

@@ -4,7 +4,7 @@ title: "Experiment in Tallinn Healthcare College"
 description: ""
 date: 2023-06-08
 feature_image: images/2023-06-08-pynt-healthcare-college/cover-image.jpg
-tags: [workshop, experiment, partnership]
+tags: [event, experiment, partnership]
 ---
 
 

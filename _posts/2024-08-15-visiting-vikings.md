@@ -4,7 +4,7 @@ title: "EdTech seminar participation"
 description: ""
 date: 2024-08-15
 feature_image: images/2024-08-15-visiting-vikings/cover-vikings.jpg
-tags: [meeting, workshop]
+tags: [event]
 ---
 
 Modern technologies and Scandinavian history, that's what the EdTech Estonia workshop is all about.\

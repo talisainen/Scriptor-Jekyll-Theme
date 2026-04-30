@@ -4,7 +4,7 @@ title: "Telepresence robots video quality and interaction study"
 description: ""
 date: 2022-12-15
 feature_image: images/2022-12-16-pynt-vision-experiment/seminar.jpg
-tags: [seminar, experiment]
+tags: [event, experiment]
 ---
 
 The experiment tool place durig PYNT community annual meeting on December 15 at TalTech.

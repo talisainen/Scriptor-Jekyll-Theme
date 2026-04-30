@@ -4,7 +4,7 @@ title: "Robots go to school"
 description: ""
 date: 2023-04-10
 feature_image: images/2023-04-10-school-21-workshop/cover.jpg
-tags: [workshop]
+tags: [event]
 ---
 
 We could name the students of [School nr. 21](https://21k.ee/en/) not only like-minders, but colleagues - in this school students can study in 3 varieties  of classes specialising either in Music, English, or Robotics and Entrepreneurship. Although we are yet to put to test elementary students' entrepreneurship skills, as far as it concerns robotics their profound knowledge impressed us [alot](https://alotisnotaword.info/media/alot.jpg). 

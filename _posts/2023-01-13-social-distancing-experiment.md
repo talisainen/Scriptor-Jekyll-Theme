@@ -4,7 +4,7 @@ title: "Would you keep away from a robot?"
 description: ""
 date: 2023-01-13
 feature_image: images/2023-01-13-social-distancing-experiment/norvegian-bus-stop.jpg
-tags: [workshop, experiment]
+tags: [event, experiment]
 ---
 
 As we all know (and heard many jokes about), different people have their own understanding of the distance to maintain during communication. Factors such as personality, culture, and, well, eyesight :-) play a role. So during one of our discussions we asked ourselves a question: how far would a person stand from a telepresence robot during the communication with a person controlling it? After all, it is a person you are talking to. Or a robot? To understand it better, our research group conducted an experiment during one of our workshops.

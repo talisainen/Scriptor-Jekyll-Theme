@@ -4,7 +4,7 @@ title: "Christmas experiment in Ülemiste city"
 description: ""
 date: 2023-12-11
 feature_image: images/2023-12-11-ulemiste-city-christmas-experiment/ulemiste-cover.jpg
-tags: [meeting, partnership, media]
+tags: [event, partnership, media]
 ---
 
 Our research group decided to conclude this year with a very special celebration by arranging a major event starring Temi as a "house manager" in Ülemiste city [Öpik office building](https://www.ulemistecity.ee/uuripind/opiku-maja-2306m2/).
