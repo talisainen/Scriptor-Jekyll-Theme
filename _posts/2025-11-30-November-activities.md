@@ -12,7 +12,7 @@ Over the past month, the IT Didactics Research Group has demonstrated an excepti
 <!--more-->
 **AI Retreat 2024: A Landmark Event With 150 Participants**
 
-We are proud to announce that the AI Retreat gathered approximately 150 participants, including researchers, educators, PhD students, and industry experts.
+We are proud to announce that the AI Retreat gathered approximately 150 participants, including researchers, educators, studentss, and industry experts.
 The event featured multiple tracks dedicated to AI in education, digital transformation, and learning innovation.
 
 {% include image_caption.html imageurl="/images/2025-11-30-november-activities/AI Retreat 2.jpg" %}
@@ -26,7 +26,7 @@ The retreat was jointly moderated by Prof. Janika Leoste and Prof. Slavko Rakić
 
 {% include image_caption.html imageurl="/images/2025-11-30-november-activities/AI Retreat 1.jpg" %}
 
-Our PhD student **Tiina Kasuk** served as a member of the organizing committee, supporting the event’s successful implementation.
+Our students **Tiina Kasuk** served as a member of the organizing committee, supporting the event’s successful implementation.
 
 
 **Policy Makers & Digital Education: Presence at the DigiEduHack Main Stage in Brussels**

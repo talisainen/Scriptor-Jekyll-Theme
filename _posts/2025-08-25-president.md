@@ -4,7 +4,7 @@ title: " Robots on Stage with the Estonian President – A Moment to Remember"
 description: ""
 date: 2025-08-25
 feature_image: images/2025-08-25-president/president_cover.jpg
-tags: [technology, PhD student]
+tags: [technology, students]
 ---
 Still hard to believe, but it actually happened: our robots shared the stage with the President of Estonia! 
 

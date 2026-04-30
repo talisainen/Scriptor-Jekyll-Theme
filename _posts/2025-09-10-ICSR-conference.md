@@ -4,7 +4,7 @@ title: " ICSR 2025 Conferenece in Naples"
 description: ""
 date: 2025-09-10
 feature_image: images/2025-09-10-ICSR-conference/confcover.jpg
-tags: [technology, PhD student, conference]
+tags: [technology, students, conference]
 ---
 From September 10–12, 2025, our research group had the opportunity to take part in the International Conference on Social Robotics + AI (ICSR 2025), hosted in Naples, Italy. The conference theme, “Emotivation at the Core: Empowering Social Robots to Inspire and Connect,” set the stage for three days of insightful discussions, presentations, and collaborations on the future of social robotics.
 

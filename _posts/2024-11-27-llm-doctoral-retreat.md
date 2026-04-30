@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PhD students LLM retreat"
+title: "studentss LLM retreat"
 description: ""
 date: 2024-11-27
 feature_image: images/2024-11-27-llm-doctoral-retreat/cover-llm-school.jpg

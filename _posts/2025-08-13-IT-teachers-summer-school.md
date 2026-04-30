@@ -4,7 +4,7 @@ title: " Exploring the Use of Robot Assistants in IT Teachers’ Summer School"
 description: ""
 date: 2025-08-13
 feature_image: images/2025-08-13-IT-teachers-summer-school/suvekool-cover.jpg
-tags: [technology, PhD student]
+tags: [technology, students]
 ---
 At the recent IT Teachers’ Summer School, we explored how robot assistants can support learning and teaching in school environments. The workshop focused on sharing practical experiences and demonstrating real-life use cases where robotic tools can make education more inclusive and efficient.
 

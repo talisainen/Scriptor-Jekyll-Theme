@@ -19,7 +19,7 @@ January started with international research engagement in both Africa and Asia.
 {% include image_caption.html imageurl="/images/2026-03-12-international-start/Voldemar Kenya.jpg" %}
 
 
-At the same time, our PhD student and early-stage researcher **Fuad Budagov** represented the research group at the **7th International Conference on Advances in Education and Information Technology (AEIT2026)** held from **23–25 January 2026 in Sapporo, Hokkaido, Japan**. His participation provided an opportunity to share research results and connect with the international EdTech research community.
+At the same time, our students and early-stage researcher **Fuad Budagov** represented the research group at the **7th International Conference on Advances in Education and Information Technology (AEIT2026)** held from **23–25 January 2026 in Sapporo, Hokkaido, Japan**. His participation provided an opportunity to share research results and connect with the international EdTech research community.
 
 {% include image_caption.html imageurl="/images/2026-03-12-international-start/Fuad Japan.jpg" %}
 
